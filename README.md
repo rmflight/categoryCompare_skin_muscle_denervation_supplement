@@ -3,10 +3,12 @@
 These are supplementary materials for:
 
 **categoryCompare, a novel analytical tool based on feature annotations, reveals differences in the response to denervation in skin and muscle**
+
 R.M. Flight, B.J. Harrison, F. Mohammad, M.B. Bunge, L.M. Mendell, L.D.F. Moon, J.C. Petruska and E.C. Rouchka
+
 *Submitted to BMC Binformatics* April, 2013
 
-  * **analysScripts**: All scripts used to generate the results reported in the publication
+  * **analysisScripts**: All scripts used to generate the results reported in the publication
     * *publicationAnalysis.r*: Actual analysis steps
     * *process_skin.r*: Processing the raw skin microarray data
     * *process_muscle.r*: Processing the raw muscle microarray data
