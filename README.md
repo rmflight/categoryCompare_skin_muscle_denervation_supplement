@@ -8,6 +8,19 @@ R.M. Flight, B.J. Harrison, F. Mohammad, M.B. Bunge, L.M. Mendell, L.D.F. Moon, 
 
 *Submitted to BMC Binformatics* April, 2013
 
+## Citation
+
+If you use this data in other locations, please cite as:
+
+Supplemental materials for categoryCompare skin and muscle denervation. Robert M Flight, Jeffrey C Petruska, Benjamin J Harrison, Fahim Mohammad, Mary B Bunge, Lorne M Mendell, Lawrence DF Moon, Eric C Rouchka. figshare.
+
+Retrieved 16:34, Apr 25, 2013 (GMT)
+
+http://dx.doi.org/10.6084/m9.figshare.691018
+
+
+## Description of files
+
   * **analysisScripts**: All scripts used to generate the results reported in the publication
     * *publicationAnalysis.r*: Actual analysis steps
     * *process_skin.r*: Processing the raw skin microarray data
