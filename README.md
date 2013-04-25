@@ -7,6 +7,24 @@ R.M. Flight, B.J. Harrison, F. Mohammad, M.B. Bunge, L.M. Mendell, L.D.F. Moon, 
 *Submitted to BMC Binformatics* April, 2013
 
   * **analysScripts**: All scripts used to generate the results reported in the publication
-
-    * *publicationAnalysis.r*:
+    * *publicationAnalysis.r*: Actual analysis steps
+    * *process_skin.r*: Processing the raw skin microarray data
+    * *process_muscle.r*: Processing the raw muscle microarray data
+    * *skinDescriptor.txt*: sample classes of the skin data
+    * *muscleDescriptor.txt*: sample classes of the muscle data
+    * *listMemberships.txt*: the full set of possible "list-memberships"
+    * *skinData.RData*: processed skin microarray data
+    * *muscleData.RData*: processed muscle microarray data
+    * **homologene_data**: data and code used to determine mouse and rat homologs
+      * *homologeneData.RData*: processed homologene data for just rat and mouse
+      * *homoLookup.r*: find homologs
+      * *homoProcess.r*: commands used to process the homologene text file
+      * *taxid_taxname.r*: mapping between numerical taxonomy id and species
+  * **categoryCompareInstallers**: the actual categoryCompare `Bioconductor` installers for the version used to generate the results in the paper
+    * *README.txt*: instructions for installation
+    * *categoryCompare_0.6.20.tar.gz*: source installer for linux
+    * *categoryCompare_0.6.20.zip*: installer for windows
+    * **other_packages**: two other packages that may aid in installation
+  * **ccResults**: text files of the results from `categoryCompare` reported in the publication. Each file corresponds to a different GO ontology, and within each file the results are organized by "related annotations", as reported in the publication. Each group of annotations has the group title, the membership annotations with statistics, as well as genes that were annotated to those annotations.
+  * **ffResults**: corresponding results using the "feature level analysis" (FLA).
 
