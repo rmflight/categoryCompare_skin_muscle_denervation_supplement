@@ -7,5 +7,6 @@ R.M. Flight, B.J. Harrison, F. Mohammad, M.B. Bunge, L.M. Mendell, L.D.F. Moon, 
 *Submitted to BMC Binformatics* April, 2013
 
   * **analysScripts**: All scripts used to generate the results reported in the publication
-    *publicationAnalysis.r*:
+
+    * *publicationAnalysis.r*:
 
