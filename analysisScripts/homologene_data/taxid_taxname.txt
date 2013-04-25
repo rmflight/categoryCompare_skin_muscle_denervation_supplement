@@ -1,0 +1,20 @@
+10090	Mus musculus
+10116	Rattus norvegicus
+148305	Magnaporthe grisea
+28985	Kluyveromyces lactis
+33169	Eremothecium gossypii
+3702	Arabidopsis thaliana
+4530	Oryza sativa
+4896	Schizosaccharomyces pombe
+4932	Saccharomyces cerevisiae
+5141	Neurospora crassa
+5833	Plasmodium falciparum
+6239	Caenorhabditis elegans
+7165	Anopheles gambiae
+7227	Drosophila melanogaster
+7955	Danio rerio
+9031	Gallus gallus
+9598	Pan troglodytes
+9606	Homo sapiens
+9615	Canis lupus familiaris
+9913	Bos taurus

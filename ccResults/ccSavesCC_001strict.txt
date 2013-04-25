@@ -1,0 +1,738 @@
+
+
+ muscleFiber.muscleDN 
+ Annotation Data 
+"ID"	"Desc"	"listMembership"	"skin.T7.DN"	"skin.T7.UP"	"skin.T14.DN"	"skin.T14.UP"	"muscle.DN"	"muscle.UP"	"skin.T7.DN.Pvalue"	"skin.T7.DN.FDR"	"skin.T7.DN.OddsRatio"	"skin.T7.DN.ExpCount"	"skin.T7.DN.Count"	"skin.T7.DN.Size"	"skin.T7.UP.Pvalue"	"skin.T7.UP.FDR"	"skin.T7.UP.OddsRatio"	"skin.T7.UP.ExpCount"	"skin.T7.UP.Count"	"skin.T7.UP.Size"	"skin.T14.DN.Pvalue"	"skin.T14.DN.FDR"	"skin.T14.DN.OddsRatio"	"skin.T14.DN.ExpCount"	"skin.T14.DN.Count"	"skin.T14.DN.Size"	"skin.T14.UP.Pvalue"	"skin.T14.UP.FDR"	"skin.T14.UP.OddsRatio"	"skin.T14.UP.ExpCount"	"skin.T14.UP.Count"	"skin.T14.UP.Size"	"muscle.DN.Pvalue"	"muscle.DN.FDR"	"muscle.DN.OddsRatio"	"muscle.DN.ExpCount"	"muscle.DN.Count"	"muscle.DN.Size"	"muscle.UP.Pvalue"	"muscle.UP.FDR"	"muscle.UP.OddsRatio"	"muscle.UP.ExpCount"	"muscle.UP.Count"	"muscle.UP.Size"
+"GO:0030018"	"Z disc"	"muscle.DN"	NA	NA	TRUE	NA	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.860367492782963	1	0.508285657920694	1.91535071612192	1	38	NA	NA	NA	NA	NA	NA	0.000224354909688431	1	4.33056335830212	3.19304983996342	11	43	0.0046753150268389	1	3.02084286978547	3.94412437128487	10	43
+"GO:0043292"	"contractile fiber"	"muscle.DN"	TRUE	TRUE	TRUE	NA	TRUE	TRUE	0.233709940948306	1	3.9018115942029	0.264689680499449	1	93	0.905772816866265	1	0.422268570511792	2.32243848696291	1	93	0.506905660367892	1	1.07108539438503	4.68756885787734	5	93	NA	NA	NA	NA	NA	NA	0.000362138804175217	1	2.77597223075505	7.42569730224051	18	100	0.00165977731158387	1	2.34830121449363	9.17238225880201	19	100
+"GO:0044449"	"contractile fiber part"	"muscle.DN"	TRUE	NA	TRUE	NA	TRUE	TRUE	0.195363184271397	1	4.79377777777778	0.216305545354389	1	76	NA	NA	NA	NA	NA	NA	0.744546051760989	1	0.772994129158513	3.83070143224385	3	76	NA	NA	NA	NA	NA	NA	0.000254821528675531	1	3.11032083494395	6.01481481481482	16	81	0.00628372126111333	1	2.26950680898049	7.42962962962963	15	81
+"GO:0031674"	"I band"	"muscle.DN"	NA	NA	TRUE	NA	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.892289979668135	1	0.447558220368439	2.1673705471906	1	43	NA	NA	NA	NA	NA	NA	1.34061876489317e-05	1	4.7823613086771	3.78710562414266	14	51	0.00567564469007378	1	2.74223790322581	4.67791495198903	11	51
+"GO:0030017"	"sarcomere"	"muscle.DN"	NA	NA	TRUE	NA	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.967415701511156	1	0.288545760808535	3.3266617701065	1	66	NA	NA	NA	NA	NA	NA	8.32741902938704e-05	1	3.48813030670594	5.49501600365798	16	74	0.0161933864178423	1	2.12490478556052	6.78756287151349	13	74
+"GO:0030016"	"myofibril"	"muscle.DN"	TRUE	TRUE	TRUE	NA	TRUE	TRUE	0.215890022577982	1	4.2765873015873	0.241920675725303	1	85	0.884449942522041	1	0.462836056931998	2.1226588321704	1	85	0.809206569180341	1	0.687550254623425	4.28433712816746	3	85	NA	NA	NA	NA	NA	NA	0.000140675239215475	1	3.03717884130982	6.90589849108368	18	93	0.00998367198688214	1	2.07476414163344	8.53031550068587	16	93
+Item Data 
+"Entrez"	"symbol"	"name"	"is.skin.T7.DN"	"is.skin.T7.UP"	"is.skin.T14.DN"	"is.skin.T14.UP"	"is.muscle.DN"	"is.muscle.UP"
+"107765"	"Ankrd1"	"ankyrin repeat domain 1 (cardiac muscle)"	NA	NA	NA	NA	NA	TRUE
+"11464"	"Actc1"	"actin, alpha, cardiac muscle 1"	NA	NA	NA	NA	TRUE	NA
+"11472"	"Actn2"	"actinin alpha 2"	NA	NA	NA	NA	TRUE	NA
+"11733"	"Ank1"	"ankyrin 1, erythroid"	NA	NA	NA	NA	TRUE	NA
+"118449"	"Synpo2"	"synaptopodin 2"	NA	NA	NA	NA	TRUE	NA
+"12372"	"Casq1"	"calsequestrin 1"	NA	NA	NA	NA	TRUE	NA
+"12955"	"Cryab"	"crystallin, alpha B"	NA	NA	NA	NA	NA	TRUE
+"14200"	"Fhl2"	"four and a half LIM domains 2"	NA	NA	NA	NA	NA	TRUE
+"14359"	"Fxr1"	"fragile X mental retardation gene 1, autosomal homolog"	NA	NA	TRUE	NA	NA	NA
+"15507"	"Hspb1"	"heat shock protein 1"	NA	NA	NA	NA	NA	TRUE
+"16202"	"Ilk"	"integrin linked kinase"	NA	NA	NA	NA	NA	TRUE
+"16480"	"Jup"	"junction plakoglobin"	NA	NA	NA	NA	NA	TRUE
+"16523"	"Kcnj8"	"potassium inwardly-rectifying channel, subfamily J, member 8"	NA	TRUE	NA	NA	NA	NA
+"16691"	"Krt8"	"keratin 8"	NA	NA	NA	NA	NA	TRUE
+"170947"	"Myoz3"	"myozenin 3"	NA	NA	NA	NA	TRUE	NA
+"17882"	"Myh2"	"myosin, heavy polypeptide 2, skeletal muscle, adult"	NA	NA	NA	NA	TRUE	NA
+"17883"	"Myh3"	"myosin, heavy polypeptide 3, skeletal muscle, embryonic"	NA	NA	NA	NA	NA	TRUE
+"17927"	"Myod1"	"myogenic differentiation 1"	NA	NA	NA	NA	NA	TRUE
+"17931"	"Ppp1r12a"	"protein phosphatase 1, regulatory (inhibitor) subunit 12A"	NA	NA	NA	NA	NA	TRUE
+"17996"	"Neb"	"nebulin"	NA	NA	TRUE	NA	NA	NA
+"18479"	"Pak1"	"p21 protein (Cdc42/Rac)-activated kinase 1"	NA	NA	NA	NA	NA	TRUE
+"18810"	"Plec"	"plectin"	NA	NA	TRUE	NA	NA	NA
+"208727"	"Hdac4"	"histone deacetylase 4"	NA	NA	NA	NA	NA	TRUE
+"21955"	"Tnnt1"	"troponin T1, skeletal, slow"	NA	NA	NA	NA	NA	TRUE
+"21956"	"Tnnt2"	"troponin T2, cardiac"	NA	NA	NA	NA	NA	TRUE
+"22004"	"Tpm2"	"tropomyosin 2, beta"	NA	NA	NA	NA	TRUE	NA
+"22138"	"Ttn"	"titin"	NA	NA	NA	NA	TRUE	NA
+"226041"	"Pgm5"	"phosphoglucomutase 5"	NA	NA	NA	NA	NA	TRUE
+"231148"	"Ablim2"	"actin-binding LIM protein 2"	NA	NA	NA	NA	TRUE	NA
+"233335"	"Synm"	"synemin, intermediate filament protein"	NA	NA	NA	NA	TRUE	NA
+"238871"	"Pde4d"	"phosphodiesterase 4D, cAMP specific"	NA	NA	NA	NA	TRUE	NA
+"24131"	"Ldb3"	"LIM domain binding 3"	NA	NA	NA	NA	TRUE	NA
+"26549"	"Itgb1bp2"	"integrin beta 1 binding protein 2"	NA	NA	NA	NA	TRUE	NA
+"319565"	"Syne2"	"synaptic nuclear envelope 2"	NA	NA	NA	NA	TRUE	NA
+"433766"	"Trim63"	"tripartite motif-containing 63"	NA	NA	TRUE	NA	NA	TRUE
+"57339"	"Jph1"	"junctophilin 1"	NA	NA	NA	NA	TRUE	NA
+"59091"	"Jph2"	"junctophilin 2"	NA	NA	NA	NA	TRUE	NA
+"67268"	"2900073G15Rik"	"RIKEN cDNA 2900073G15 gene"	NA	NA	NA	NA	NA	TRUE
+"68016"	"Murc"	"muscle-related coiled-coil protein"	NA	NA	NA	NA	NA	TRUE
+"68678"	"Smtnl1"	"smoothelin-like 1"	NA	NA	NA	NA	TRUE	NA
+
+
+ sarcoplasm.muscleDN 
+ Annotation Data 
+"ID"	"Desc"	"listMembership"	"skin.T7.DN"	"skin.T7.UP"	"skin.T14.DN"	"skin.T14.UP"	"muscle.DN"	"muscle.UP"	"skin.T7.DN.Pvalue"	"skin.T7.DN.FDR"	"skin.T7.DN.OddsRatio"	"skin.T7.DN.ExpCount"	"skin.T7.DN.Count"	"skin.T7.DN.Size"	"skin.T7.UP.Pvalue"	"skin.T7.UP.FDR"	"skin.T7.UP.OddsRatio"	"skin.T7.UP.ExpCount"	"skin.T7.UP.Count"	"skin.T7.UP.Size"	"skin.T14.DN.Pvalue"	"skin.T14.DN.FDR"	"skin.T14.DN.OddsRatio"	"skin.T14.DN.ExpCount"	"skin.T14.DN.Count"	"skin.T14.DN.Size"	"skin.T14.UP.Pvalue"	"skin.T14.UP.FDR"	"skin.T14.UP.OddsRatio"	"skin.T14.UP.ExpCount"	"skin.T14.UP.Count"	"skin.T14.UP.Size"	"muscle.DN.Pvalue"	"muscle.DN.FDR"	"muscle.DN.OddsRatio"	"muscle.DN.ExpCount"	"muscle.DN.Count"	"muscle.DN.Size"	"muscle.UP.Pvalue"	"muscle.UP.FDR"	"muscle.UP.OddsRatio"	"muscle.UP.ExpCount"	"muscle.UP.Count"	"muscle.UP.Size"
+"GO:0016528"	"sarcoplasm"	"muscle.DN"	TRUE	TRUE	NA	NA	TRUE	TRUE	0.0767953630829746	1	13.3753086419753	0.0796915167095116	1	28	0.507862938140729	1	1.44772447724477	0.699228791773779	1	28	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.85132352044503e-08	1	9.84892787524366	2.37622313671696	14	32	0.33729904911058	1	1.41627341627342	2.93516232281664	4	32
+"GO:0016529"	"sarcoplasmic reticulum"	"muscle.DN"	TRUE	TRUE	NA	NA	TRUE	TRUE	0.0688485320479836	1	15.0513888888889	0.0711531399192068	1	25	0.468974631968145	1	1.62915129151292	0.624311421226588	1	25	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6.93432878115554e-08	1	9.67223735551793	2.22770919067215	13	30	0.527940057443969	1	1.10055555555556	2.7517146776406	3	30
+Item Data 
+"Entrez"	"symbol"	"name"	"is.skin.T7.DN"	"is.skin.T7.UP"	"is.skin.T14.DN"	"is.skin.T14.UP"	"is.muscle.DN"	"is.muscle.UP"
+"106393"	"Srl"	"sarcalumenin"	NA	NA	NA	NA	TRUE	NA
+"11733"	"Ank1"	"ankyrin 1, erythroid"	NA	NA	NA	NA	TRUE	NA
+"12293"	"Cacna2d1"	"calcium channel, voltage-dependent, alpha2/delta subunit 1"	NA	NA	NA	NA	TRUE	NA
+"12317"	"Calr"	"calreticulin"	NA	TRUE	NA	NA	NA	TRUE
+"12372"	"Casq1"	"calsequestrin 1"	NA	NA	NA	NA	TRUE	NA
+"12373"	"Casq2"	"calsequestrin 2"	NA	NA	NA	NA	TRUE	NA
+"14077"	"Fabp3"	"fatty acid binding protein 3, muscle and heart"	NA	NA	NA	NA	TRUE	NA
+"15464"	"Hrc"	"histidine rich calcium binding protein"	NA	NA	NA	NA	TRUE	NA
+"16438"	"Itpr1"	"inositol 1,4,5-trisphosphate receptor 1"	NA	NA	NA	NA	TRUE	NA
+"18821"	"Pln"	"phospholamban"	NA	NA	NA	NA	NA	TRUE
+"23897"	"Hax1"	"HCLS1 associated X-1"	NA	NA	NA	NA	NA	TRUE
+"319565"	"Syne2"	"synaptic nuclear envelope 2"	NA	NA	NA	NA	TRUE	NA
+"57339"	"Jph1"	"junctophilin 1"	NA	NA	NA	NA	TRUE	NA
+"59091"	"Jph2"	"junctophilin 2"	NA	NA	NA	NA	TRUE	NA
+"74166"	"Tmem38a"	"transmembrane protein 38A"	NA	NA	NA	NA	TRUE	NA
+"76757"	"Trdn"	"triadin"	NA	NA	NA	NA	TRUE	NA
+"77559"	"Agl"	"amylo-1,6-glucosidase, 4-alpha-glucanotransferase"	NA	NA	NA	NA	TRUE	NA
+"78688"	"Nol3"	"nucleolar protein 3 (apoptosis repressor with CARD domain)"	NA	NA	NA	NA	NA	TRUE
+
+
+ singleAnnot.muscleDN 
+ Annotation Data 
+"ID"	"Desc"	"listMembership"	"skin.T7.DN"	"skin.T7.UP"	"skin.T14.DN"	"skin.T14.UP"	"muscle.DN"	"muscle.UP"	"skin.T7.DN.Pvalue"	"skin.T7.DN.FDR"	"skin.T7.DN.OddsRatio"	"skin.T7.DN.ExpCount"	"skin.T7.DN.Count"	"skin.T7.DN.Size"	"skin.T7.UP.Pvalue"	"skin.T7.UP.FDR"	"skin.T7.UP.OddsRatio"	"skin.T7.UP.ExpCount"	"skin.T7.UP.Count"	"skin.T7.UP.Size"	"skin.T14.DN.Pvalue"	"skin.T14.DN.FDR"	"skin.T14.DN.OddsRatio"	"skin.T14.DN.ExpCount"	"skin.T14.DN.Count"	"skin.T14.DN.Size"	"skin.T14.UP.Pvalue"	"skin.T14.UP.FDR"	"skin.T14.UP.OddsRatio"	"skin.T14.UP.ExpCount"	"skin.T14.UP.Count"	"skin.T14.UP.Size"	"muscle.DN.Pvalue"	"muscle.DN.FDR"	"muscle.DN.OddsRatio"	"muscle.DN.ExpCount"	"muscle.DN.Count"	"muscle.DN.Size"	"muscle.UP.Pvalue"	"muscle.UP.FDR"	"muscle.UP.OddsRatio"	"muscle.UP.ExpCount"	"muscle.UP.Count"	"muscle.UP.Size"
+"GO:0042383"	"sarcolemma"	"muscle.DN"	NA	TRUE	TRUE	NA	TRUE	TRUE	NA	NA	NA	NA	NA	NA	0.00738325716464047	1	3.77980665950591	1.72309952258538	6	69	0.869363203505792	1	0.560779284564381	3.4778736687477	2	69	NA	NA	NA	NA	NA	NA	7.89450421191551e-05	1	3.92904483430799	4.3811614083219	14	59	0.169738535737831	1	1.55774953197359	5.41170553269319	8	59
+"GO:0005759"	"mitochondrial matrix"	"muscle.DN"	TRUE	TRUE	TRUE	NA	TRUE	TRUE	0.282786443090658	1	3.11478260869565	0.330150569225119	1	116	0.947628161324471	1	0.33707684902936	2.89680499449137	1	116	0.0319251073741377	1	1.99359178615684	5.84686008079324	11	116	NA	NA	NA	NA	NA	NA	5.72198671994532e-08	1	4.19940814552264	7.49995427526292	25	101	0.999350119572888	1	0.198448016629835	9.26410608139003	2	101
+Item Data 
+"Entrez"	"symbol"	"name"	"is.skin.T7.DN"	"is.skin.T7.UP"	"is.skin.T14.DN"	"is.skin.T14.UP"	"is.muscle.DN"	"is.muscle.UP"
+"105675"	"Ppif"	"peptidylprolyl isomerase F (cyclophilin F)"	NA	NA	NA	NA	TRUE	NA
+"107734"	"Mrpl30"	"mitochondrial ribosomal protein L30"	NA	NA	TRUE	NA	NA	NA
+"110842"	"Etfa"	"electron transferring flavoprotein, alpha polypeptide"	NA	NA	TRUE	NA	NA	NA
+"110893"	"Slc8a3"	"solute carrier family 8 (sodium/calcium exchanger), member 3"	NA	NA	NA	NA	TRUE	NA
+"11363"	"Acadl"	"acyl-Coenzyme A dehydrogenase, long-chain"	NA	NA	NA	NA	TRUE	NA
+"11364"	"Acadm"	"acyl-Coenzyme A dehydrogenase, medium chain"	NA	NA	NA	NA	TRUE	NA
+"11370"	"Acadvl"	"acyl-Coenzyme A dehydrogenase, very long chain"	NA	NA	NA	NA	TRUE	NA
+"11512"	"Adcy6"	"adenylate cyclase 6"	NA	NA	NA	NA	TRUE	NA
+"11640"	"Akap1"	"A kinase (PRKA) anchor protein 1"	NA	NA	NA	NA	TRUE	NA
+"11747"	"Anxa5"	"annexin A5"	NA	TRUE	NA	NA	NA	NA
+"12111"	"Bgn"	"biglycan"	NA	TRUE	NA	NA	NA	TRUE
+"12293"	"Cacna2d1"	"calcium channel, voltage-dependent, alpha2/delta subunit 1"	NA	NA	NA	NA	TRUE	NA
+"12372"	"Casq1"	"calsequestrin 1"	NA	NA	NA	NA	TRUE	NA
+"12491"	"Cd36"	"CD36 antigen"	NA	NA	NA	NA	TRUE	NA
+"12723"	"Clcn1"	"chloride channel 1"	NA	NA	NA	NA	TRUE	NA
+"12834"	"Col6a2"	"collagen, type VI, alpha 2"	NA	NA	NA	NA	TRUE	NA
+"12974"	"Cs"	"citrate synthase"	NA	NA	NA	NA	TRUE	NA
+"13617"	"Ednra"	"endothelin receptor type A"	NA	TRUE	NA	NA	NA	NA
+"13982"	"Esr1"	"estrogen receptor 1 (alpha)"	NA	NA	NA	NA	TRUE	NA
+"14177"	"Fgf6"	"fibroblast growth factor 6"	NA	NA	NA	NA	TRUE	NA
+"16412"	"Itgb1"	"integrin beta 1 (fibronectin receptor beta)"	NA	TRUE	NA	NA	NA	NA
+"16515"	"Kcnj12"	"potassium inwardly-rectifying channel, subfamily J, member 12"	NA	NA	NA	NA	TRUE	NA
+"16523"	"Kcnj8"	"potassium inwardly-rectifying channel, subfamily J, member 8"	NA	TRUE	NA	NA	NA	NA
+"16651"	"Sspn"	"sarcospan"	NA	NA	NA	NA	TRUE	NA
+"16691"	"Krt8"	"keratin 8"	NA	NA	NA	NA	NA	TRUE
+"16773"	"Lama2"	"laminin, alpha 2"	NA	NA	NA	NA	TRUE	NA
+"17210"	"Mcl1"	"myeloid cell leukemia sequence 1"	NA	NA	NA	NA	TRUE	NA
+"17448"	"Mdh2"	"malate dehydrogenase 2, NAD (mitochondrial)"	NA	NA	NA	NA	TRUE	NA
+"18477"	"Prdx1"	"peroxiredoxin 1"	NA	NA	NA	NA	NA	TRUE
+"18810"	"Plec"	"plectin"	NA	NA	TRUE	NA	NA	NA
+"20271"	"Scn5a"	"sodium channel, voltage-gated, type V, alpha"	NA	NA	NA	NA	NA	TRUE
+"20528"	"Slc2a4"	"solute carrier family 2 (facilitated glucose transporter), member 4"	NA	NA	NA	NA	TRUE	NA
+"20648"	"Snta1"	"syntrophin, acidic 1"	NA	NA	NA	NA	TRUE	NA
+"20656"	"Sod2"	"superoxide dismutase 2, mitochondrial"	NA	NA	NA	NA	TRUE	NA
+"20909"	"Stx4a"	"syntaxin 4A (placental)"	NA	NA	TRUE	NA	NA	TRUE
+"20927"	"Abcc8"	"ATP-binding cassette, sub-family C (CFTR/MRP), member 8"	NA	NA	NA	NA	NA	TRUE
+"212647"	"Aldh4a1"	"aldehyde dehydrogenase 4 family, member A1"	NA	NA	NA	NA	TRUE	NA
+"216151"	"Polrmt"	"polymerase (RNA) mitochondrial (DNA directed)"	NA	NA	NA	NA	TRUE	NA
+"21780"	"Tfam"	"transcription factor A, mitochondrial"	NA	NA	NA	NA	TRUE	NA
+"21809"	"Tgfb3"	"transforming growth factor, beta 3"	NA	NA	NA	NA	NA	TRUE
+"21856"	"Timm44"	"translocase of inner mitochondrial membrane 44"	NA	NA	NA	NA	TRUE	NA
+"22329"	"Vcam1"	"vascular cell adhesion molecule 1"	NA	TRUE	NA	NA	NA	NA
+"22333"	"Vdac1"	"voltage-dependent anion channel 1"	NA	NA	NA	NA	TRUE	NA
+"22334"	"Vdac2"	"voltage-dependent anion channel 2"	NA	NA	TRUE	NA	NA	NA
+"226041"	"Pgm5"	"phosphoglucomutase 5"	NA	NA	NA	NA	NA	TRUE
+"234309"	"Cbr4"	"carbonyl reductase 4"	NA	NA	TRUE	NA	NA	NA
+"235339"	"Dlat"	"dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)"	NA	NA	NA	NA	TRUE	NA
+"26903"	"Dysf"	"dysferlin"	NA	NA	NA	NA	NA	TRUE
+"381760"	"Ssbp1"	"single-stranded DNA binding protein 1"	NA	NA	TRUE	NA	NA	NA
+"52538"	"Acaa2"	"acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-oxoacyl-Coenzyme A thiolase)"	NA	NA	NA	NA	TRUE	NA
+"545725"	"Mterf"	"mitochondrial transcription termination factor"	NA	NA	TRUE	NA	NA	NA
+"56248"	"Ak3"	"adenylate kinase 3"	NA	NA	TRUE	NA	TRUE	NA
+"56282"	"Mrpl12"	"mitochondrial ribosomal protein L12"	NA	NA	NA	NA	TRUE	NA
+"64659"	"Mrps14"	"mitochondrial ribosomal protein S14"	NA	NA	TRUE	NA	NA	NA
+"66493"	"Mrpl51"	"mitochondrial ribosomal protein L51"	NA	NA	TRUE	NA	NA	NA
+"66841"	"Etfdh"	"electron transferring flavoprotein, dehydrogenase"	NA	NA	NA	NA	TRUE	NA
+"67270"	"Mrpl42"	"mitochondrial ribosomal protein L42"	NA	NA	NA	NA	TRUE	NA
+"68346"	"Sirt5"	"sirtuin 5 (silent mating type information regulation 2 homolog) 5 (S. cerevisiae)"	NA	NA	TRUE	NA	TRUE	NA
+"74238"	"Mterfd3"	"MTERF domain containing 3"	NA	NA	NA	NA	TRUE	NA
+"76263"	"Gstk1"	"glutathione S-transferase kappa 1"	NA	NA	NA	NA	TRUE	NA
+"94061"	"Mrpl1"	"mitochondrial ribosomal protein L1"	NA	NA	NA	NA	TRUE	NA
+"98238"	"Lrrc59"	"leucine rich repeat containing 59"	NA	TRUE	NA	NA	NA	TRUE
+
+
+ proteasomeComplex.muscleUP 
+ Annotation Data 
+"ID"	"Desc"	"listMembership"	"skin.T7.DN"	"skin.T7.UP"	"skin.T14.DN"	"skin.T14.UP"	"muscle.DN"	"muscle.UP"	"skin.T7.DN.Pvalue"	"skin.T7.DN.FDR"	"skin.T7.DN.OddsRatio"	"skin.T7.DN.ExpCount"	"skin.T7.DN.Count"	"skin.T7.DN.Size"	"skin.T7.UP.Pvalue"	"skin.T7.UP.FDR"	"skin.T7.UP.OddsRatio"	"skin.T7.UP.ExpCount"	"skin.T7.UP.Count"	"skin.T7.UP.Size"	"skin.T14.DN.Pvalue"	"skin.T14.DN.FDR"	"skin.T14.DN.OddsRatio"	"skin.T14.DN.ExpCount"	"skin.T14.DN.Count"	"skin.T14.DN.Size"	"skin.T14.UP.Pvalue"	"skin.T14.UP.FDR"	"skin.T14.UP.OddsRatio"	"skin.T14.UP.ExpCount"	"skin.T14.UP.Count"	"skin.T14.UP.Size"	"muscle.DN.Pvalue"	"muscle.DN.FDR"	"muscle.DN.OddsRatio"	"muscle.DN.ExpCount"	"muscle.DN.Count"	"muscle.DN.Size"	"muscle.UP.Pvalue"	"muscle.UP.FDR"	"muscle.UP.OddsRatio"	"muscle.UP.ExpCount"	"muscle.UP.Count"	"muscle.UP.Size"
+"GO:0005839"	"proteasome core complex"	"muscle.UP"	NA	NA	NA	NA	NA	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.000291406690769568	1	7.74888442659527	1.46758116140832	7	16
+"GO:0000502"	"proteasome complex"	"muscle.UP"	NA	NA	TRUE	NA	NA	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.0991094774869381	1	2.15136196524064	2.46979434447301	5	49	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6.1957701114673e-19	1	17.7979487179487	4.03584819387289	28	44
+Item Data 
+"Entrez"	"symbol"	"name"	"is.skin.T7.DN"	"is.skin.T7.UP"	"is.skin.T14.DN"	"is.skin.T14.UP"	"is.muscle.DN"	"is.muscle.UP"
+"103554"	"Psme4"	"proteasome (prosome, macropain) activator subunit 4"	NA	NA	TRUE	NA	NA	NA
+"15507"	"Hspb1"	"heat shock protein 1"	NA	NA	NA	NA	NA	TRUE
+"19166"	"Psma2"	"proteasome (prosome, macropain) subunit, alpha type 2"	NA	NA	NA	NA	NA	TRUE
+"19170"	"Psmb1"	"proteasome (prosome, macropain) subunit, beta type 1"	NA	NA	NA	NA	NA	TRUE
+"19172"	"Psmb4"	"proteasome (prosome, macropain) subunit, beta type 4"	NA	NA	NA	NA	NA	TRUE
+"19179"	"Psmc1"	"protease (prosome, macropain) 26S subunit, ATPase 1"	NA	NA	NA	NA	NA	TRUE
+"19181"	"Psmc2"	"proteasome (prosome, macropain) 26S subunit, ATPase 2"	NA	NA	NA	NA	NA	TRUE
+"19182"	"Psmc3"	"proteasome (prosome, macropain) 26S subunit, ATPase 3"	NA	NA	NA	NA	NA	TRUE
+"19184"	"Psmc5"	"protease (prosome, macropain) 26S subunit, ATPase 5"	NA	NA	NA	NA	NA	TRUE
+"19185"	"Psmd4"	"proteasome (prosome, macropain) 26S subunit, non-ATPase, 4"	NA	NA	NA	NA	NA	TRUE
+"19359"	"Rad23b"	"RAD23b homolog (S. cerevisiae)"	NA	NA	NA	NA	NA	TRUE
+"21762"	"Psmd2"	"proteasome (prosome, macropain) 26S subunit, non-ATPase, 2"	NA	NA	NA	NA	NA	TRUE
+"22123"	"Psmd3"	"proteasome (prosome, macropain) 26S subunit, non-ATPase, 3"	NA	NA	NA	NA	NA	TRUE
+"23996"	"Psmc4"	"proteasome (prosome, macropain) 26S subunit, ATPase, 4"	NA	NA	NA	NA	NA	TRUE
+"23997"	"Psmd13"	"proteasome (prosome, macropain) 26S subunit, non-ATPase, 13"	NA	NA	NA	NA	NA	TRUE
+"26440"	"Psma1"	"proteasome (prosome, macropain) subunit, alpha type 1"	NA	NA	NA	NA	NA	TRUE
+"26441"	"Psma4"	"proteasome (prosome, macropain) subunit, alpha type 4"	NA	NA	NA	NA	NA	TRUE
+"26442"	"Psma5"	"proteasome (prosome, macropain) subunit, alpha type 5"	NA	NA	NA	NA	NA	TRUE
+"26444"	"Psma7"	"proteasome (prosome, macropain) subunit, alpha type 7"	NA	NA	NA	NA	NA	TRUE
+"26446"	"Psmb3"	"proteasome (prosome, macropain) subunit, beta type 3"	NA	NA	NA	NA	NA	TRUE
+"269523"	"Vcp"	"valosin containing protein"	NA	NA	NA	NA	NA	TRUE
+"30940"	"Usp25"	"ubiquitin specific peptidase 25"	NA	NA	TRUE	NA	NA	NA
+"56436"	"Adrm1"	"adhesion regulating molecule 1"	NA	NA	NA	NA	NA	TRUE
+"57296"	"Psmd8"	"proteasome (prosome, macropain) 26S subunit, non-ATPase, 8"	NA	NA	NA	NA	NA	TRUE
+"59025"	"Usp14"	"ubiquitin specific peptidase 14"	NA	NA	TRUE	NA	NA	TRUE
+"59029"	"Psmd14"	"proteasome (prosome, macropain) 26S subunit, non-ATPase, 14"	NA	NA	NA	NA	NA	TRUE
+"66997"	"Psmd12"	"proteasome (prosome, macropain) 26S subunit, non-ATPase, 12"	NA	NA	TRUE	NA	NA	TRUE
+"67089"	"Psmc6"	"proteasome (prosome, macropain) 26S subunit, ATPase, 6"	NA	NA	TRUE	NA	NA	TRUE
+"69077"	"Psmd11"	"proteasome (prosome, macropain) 26S subunit, non-ATPase, 11"	NA	NA	NA	NA	NA	TRUE
+"70247"	"Psmd1"	"proteasome (prosome, macropain) 26S subunit, non-ATPase, 1"	NA	NA	NA	NA	NA	TRUE
+
+
+ nucleolus.muscleUP 
+ Annotation Data 
+"ID"	"Desc"	"listMembership"	"skin.T7.DN"	"skin.T7.UP"	"skin.T14.DN"	"skin.T14.UP"	"muscle.DN"	"muscle.UP"	"skin.T7.DN.Pvalue"	"skin.T7.DN.FDR"	"skin.T7.DN.OddsRatio"	"skin.T7.DN.ExpCount"	"skin.T7.DN.Count"	"skin.T7.DN.Size"	"skin.T7.UP.Pvalue"	"skin.T7.UP.FDR"	"skin.T7.UP.OddsRatio"	"skin.T7.UP.ExpCount"	"skin.T7.UP.Count"	"skin.T7.UP.Size"	"skin.T14.DN.Pvalue"	"skin.T14.DN.FDR"	"skin.T14.DN.OddsRatio"	"skin.T14.DN.ExpCount"	"skin.T14.DN.Count"	"skin.T14.DN.Size"	"skin.T14.UP.Pvalue"	"skin.T14.UP.FDR"	"skin.T14.UP.OddsRatio"	"skin.T14.UP.ExpCount"	"skin.T14.UP.Count"	"skin.T14.UP.Size"	"muscle.DN.Pvalue"	"muscle.DN.FDR"	"muscle.DN.OddsRatio"	"muscle.DN.ExpCount"	"muscle.DN.Count"	"muscle.DN.Size"	"muscle.UP.Pvalue"	"muscle.UP.FDR"	"muscle.UP.OddsRatio"	"muscle.UP.ExpCount"	"muscle.UP.Count"	"muscle.UP.Size"
+"GO:0005730"	"nucleolus"	"muscle.UP"	NA	TRUE	TRUE	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	0.913711332426348	1	0.574321700049936	6.81748071979434	4	273	0.216333601708671	1	1.25909745065789	13.7602827763496	17	273	0.986749379697917	1	0.228707107843137	4.23586118251928	1	273	0.998143287438373	1	0.416856395986171	18.1187014174668	8	244	3.61486172251071e-18	1	4.1188926277149	22.3806127114769	69	244
+"GO:0044452"	"nucleolar part"	"muscle.UP"	NA	NA	NA	NA	NA	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.000224859530766937	1	6.6465661641541	1.8344764517604	8	20
+Item Data 
+"Entrez"	"symbol"	"name"	"is.skin.T7.DN"	"is.skin.T7.UP"	"is.skin.T14.DN"	"is.skin.T14.UP"	"is.muscle.DN"	"is.muscle.UP"
+"107071"	"Wdr74"	"WD repeat domain 74"	NA	NA	NA	NA	NA	TRUE
+"109212"	"Fam64a"	"family with sequence similarity 64, member A"	NA	TRUE	NA	NA	NA	NA
+"110417"	"Pigh"	"phosphatidylinositol glycan anchor biosynthesis, class H"	NA	NA	NA	NA	NA	TRUE
+"110816"	"Pwp2"	"PWP2 periodic tryptophan protein homolog (yeast)"	NA	NA	NA	NA	NA	TRUE
+"11472"	"Actn2"	"actinin alpha 2"	NA	NA	NA	NA	TRUE	NA
+"11546"	"Parp2"	"poly (ADP-ribose) polymerase family, member 2"	NA	NA	NA	NA	NA	TRUE
+"11792"	"Apex1"	"apurinic/apyrimidinic endonuclease 1"	NA	NA	NA	NA	NA	TRUE
+"11910"	"Atf3"	"activating transcription factor 3"	NA	NA	NA	NA	NA	TRUE
+"12181"	"Bop1"	"block of proliferation 1"	NA	NA	NA	NA	NA	TRUE
+"12419"	"Cbx5"	"chromobox homolog 5 (Drosophila HP1a)"	NA	NA	NA	NA	NA	TRUE
+"12465"	"Cct5"	"chaperonin containing Tcp1, subunit 5 (epsilon)"	NA	NA	NA	NA	NA	TRUE
+"13014"	"Cstb"	"cystatin B"	NA	NA	NA	NA	NA	TRUE
+"13018"	"Ctcf"	"CCCTC-binding factor"	NA	NA	TRUE	NA	NA	NA
+"13039"	"Ctsl"	"cathepsin L"	NA	NA	NA	NA	NA	TRUE
+"13850"	"Ephx2"	"epoxide hydrolase 2, cytoplasmic"	NA	NA	NA	NA	TRUE	NA
+"14030"	"Ewsr1"	"Ewing sarcoma breakpoint region 1"	NA	NA	NA	NA	NA	TRUE
+"14113"	"Fbl"	"fibrillarin"	NA	NA	NA	NA	NA	TRUE
+"14164"	"Fgf1"	"fibroblast growth factor 1"	NA	NA	NA	NA	TRUE	NA
+"15368"	"Hmox1"	"heme oxygenase (decycling) 1"	NA	TRUE	NA	NA	NA	TRUE
+"16438"	"Itpr1"	"inositol 1,4,5-trisphosphate receptor 1"	NA	NA	NA	NA	TRUE	NA
+"170719"	"Oxr1"	"oxidation resistance 1"	NA	NA	TRUE	NA	NA	NA
+"17089"	"Lyar"	"Ly1 antibody reactive clone"	NA	NA	NA	NA	NA	TRUE
+"17246"	"Mdm2"	"transformed mouse 3T3 cell double minute 2"	NA	NA	NA	NA	NA	TRUE
+"17345"	"Mki67"	"antigen identified by monoclonal antibody Ki 67"	NA	NA	NA	NA	NA	TRUE
+"17698"	"Msn"	"moesin"	NA	TRUE	NA	NA	NA	TRUE
+"17869"	"Myc"	"myelocytomatosis oncogene"	NA	NA	NA	NA	NA	TRUE
+"17975"	"Ncl"	"nucleolin"	NA	NA	NA	NA	NA	TRUE
+"18000"	"Sept2"	"septin 2"	NA	TRUE	NA	NA	NA	NA
+"18148"	"Npm1"	"nucleophosmin 1"	NA	NA	NA	NA	NA	TRUE
+"18432"	"Mybbp1a"	"MYB binding protein (P160) 1a"	NA	NA	NA	NA	NA	TRUE
+"18477"	"Prdx1"	"peroxiredoxin 1"	NA	NA	NA	NA	NA	TRUE
+"19047"	"Ppp1cc"	"protein phosphatase 1, catalytic subunit, gamma isoform"	NA	NA	TRUE	NA	NA	NA
+"19651"	"Rbl2"	"retinoblastoma-like 2"	NA	NA	TRUE	NA	NA	NA
+"19653"	"Rbm4"	"RNA binding motif protein 4"	NA	NA	NA	NA	NA	TRUE
+"19684"	"Rdx"	"radixin"	NA	NA	TRUE	NA	TRUE	NA
+"20471"	"Six1"	"sine oculis-related homeobox 1 homolog (Drosophila)"	NA	NA	TRUE	NA	NA	NA
+"20587"	"Smarcb1"	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1"	NA	NA	NA	NA	NA	TRUE
+"20817"	"Srpk2"	"serine/arginine-rich protein specific kinase 2"	NA	NA	TRUE	NA	NA	TRUE
+"208366"	"Rpp40"	"ribonuclease P 40 subunit (human)"	NA	NA	NA	NA	NA	TRUE
+"20846"	"Stat1"	"signal transducer and activator of transcription 1"	NA	NA	NA	NA	TRUE	NA
+"20873"	"Plk4"	"polo-like kinase 4 (Drosophila)"	NA	NA	NA	NA	NA	TRUE
+"21340"	"Taf1b"	"TATA box binding protein (Tbp)-associated factor, RNA polymerase I, B"	NA	NA	NA	NA	NA	TRUE
+"214855"	"Arid5a"	"AT rich interactive domain 5A (MRF1-like)"	NA	NA	NA	NA	NA	TRUE
+"218210"	"Nup153"	"nucleoporin 153"	NA	NA	TRUE	NA	NA	NA
+"22184"	"Zrsr2"	"zinc finger (CCCH type), RNA binding motif and serine/arginine rich 2"	NA	NA	NA	NA	NA	TRUE
+"225055"	"Fbxo11"	"F-box protein 11"	NA	NA	TRUE	NA	NA	NA
+"228003"	"Kbtbd10"	"kelch repeat and BTB (POZ) domain containing 10"	NA	NA	TRUE	NA	NA	NA
+"230737"	"Gnl2"	"guanine nucleotide binding protein-like 2 (nucleolar)"	NA	NA	NA	NA	NA	TRUE
+"231452"	"Sdad1"	"SDA1 domain containing 1"	NA	NA	NA	NA	NA	TRUE
+"235323"	"Usp28"	"ubiquitin specific peptidase 28"	NA	NA	NA	NA	NA	TRUE
+"237010"	"Klhl4"	"kelch-like 4 (Drosophila)"	NA	NA	NA	NA	TRUE	NA
+"26919"	"Zfp346"	"zinc finger protein 346"	NA	NA	NA	NA	NA	TRUE
+"269470"	"Wdr3"	"WD repeat domain 3"	NA	NA	NA	NA	NA	TRUE
+"27354"	"Nbn"	"nibrin"	NA	NA	TRUE	NA	NA	NA
+"27367"	"Rpl3"	"ribosomal protein L3"	NA	NA	NA	NA	NA	TRUE
+"27993"	"Imp4"	"IMP4, U3 small nucleolar ribonucleoprotein, homolog (yeast)"	NA	NA	NA	NA	NA	TRUE
+"28114"	"Nsun2"	"NOL1/NOP2/Sun domain family member 2"	NA	NA	NA	NA	NA	TRUE
+"30877"	"Gnl3"	"guanine nucleotide binding protein-like 3 (nucleolar)"	NA	NA	NA	NA	NA	TRUE
+"30932"	"Zfp330"	"zinc finger protein 330"	NA	NA	TRUE	NA	NA	TRUE
+"50493"	"Txnrd1"	"thioredoxin reductase 1"	NA	NA	NA	NA	NA	TRUE
+"52323"	"Klhl7"	"kelch-like 7 (Drosophila)"	NA	NA	TRUE	NA	NA	NA
+"52513"	"Ddx56"	"DEAD (Asp-Glu-Ala-Asp) box polypeptide 56"	NA	NA	NA	NA	NA	TRUE
+"52530"	"Nhp2"	"NHP2 ribonucleoprotein homolog (yeast)"	NA	NA	NA	NA	NA	TRUE
+"52874"	"D19Bwg1357e"	"DNA segment, Chr 19, Brigham & Women's Genetics 1357 expressed"	NA	NA	NA	NA	NA	TRUE
+"53328"	"Pgrmc1"	"progesterone receptor membrane component 1"	NA	NA	TRUE	NA	NA	NA
+"55989"	"Nop58"	"NOP58 ribonucleoprotein homolog (yeast)"	NA	NA	NA	NA	NA	TRUE
+"56200"	"Ddx21"	"DEAD (Asp-Glu-Ala-Asp) box polypeptide 21"	NA	NA	NA	NA	NA	TRUE
+"56321"	"Aatf"	"apoptosis antagonizing transcription factor"	NA	NA	NA	NA	NA	TRUE
+"56361"	"Pus1"	"pseudouridine synthase 1"	NA	NA	NA	NA	NA	TRUE
+"56397"	"Morf4l2"	"mortality factor 4 like 2"	NA	NA	NA	NA	NA	TRUE
+"57753"	"Noc3l"	"nucleolar complex associated 3 homolog (S. cerevisiae)"	NA	NA	NA	NA	NA	TRUE
+"59022"	"Edf1"	"endothelial differentiation-related factor 1"	NA	NA	TRUE	NA	NA	NA
+"64144"	"Mllt1"	"myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 1"	NA	NA	NA	TRUE	NA	NA
+"64297"	"Gprc5b"	"G protein-coupled receptor, family C, group 5, member B"	NA	NA	NA	NA	NA	TRUE
+"64424"	"Polr1e"	"polymerase (RNA) I polypeptide E"	NA	NA	NA	NA	NA	TRUE
+"64934"	"Pes1"	"pescadillo homolog 1, containing BRCT domain (zebrafish)"	NA	NA	NA	NA	NA	TRUE
+"65019"	"Rpl23"	"ribosomal protein L23"	NA	NA	NA	NA	NA	TRUE
+"66538"	"Rps19bp1"	"ribosomal protein S19 binding protein 1"	NA	NA	NA	NA	NA	TRUE
+"66599"	"Rdm1"	"RAD52 motif 1"	NA	NA	TRUE	NA	NA	NA
+"66711"	"Sbds"	"Shwachman-Bodian-Diamond syndrome homolog (human)"	NA	NA	NA	NA	NA	TRUE
+"67724"	"Pop1"	"processing of precursor 1, ribonuclease P/MRP family, (S. cerevisiae)"	NA	NA	NA	NA	NA	TRUE
+"67936"	"Wdr55"	"WD repeat domain 55"	NA	NA	NA	NA	NA	TRUE
+"67973"	"Mphosph10"	"M-phase phosphoprotein 10 (U3 small nucleolar ribonucleoprotein)"	NA	NA	NA	NA	NA	TRUE
+"68017"	"Ftsj2"	"FtsJ homolog 2 (E. coli)"	NA	NA	NA	NA	TRUE	NA
+"68147"	"Gar1"	"GAR1 ribonucleoprotein homolog (yeast)"	NA	NA	NA	NA	NA	TRUE
+"69072"	"Ebna1bp2"	"EBNA1 binding protein 2"	NA	NA	NA	NA	NA	TRUE
+"70044"	"Tut1"	"terminal uridylyl transferase 1, U6 snRNA-specific"	NA	NA	NA	NA	NA	TRUE
+"70078"	"Nol7"	"nucleolar protein 7"	NA	NA	TRUE	NA	NA	NA
+"70481"	"Pnma1"	"paraneoplastic antigen MA1"	NA	NA	NA	NA	NA	TRUE
+"70769"	"Nolc1"	"nucleolar and coiled-body phosphoprotein 1"	NA	NA	NA	NA	NA	TRUE
+"71990"	"Ddx54"	"DEAD (Asp-Glu-Ala-Asp) box polypeptide 54"	NA	NA	NA	NA	NA	TRUE
+"75617"	"Rps25"	"ribosomal protein S25"	NA	NA	NA	NA	NA	TRUE
+"76846"	"Rps9"	"ribosomal protein S9"	NA	NA	NA	NA	NA	TRUE
+"97165"	"Hmgb2"	"high mobility group box 2"	NA	NA	NA	NA	NA	TRUE
+
+
+ singleAnnot.muscleUP 
+ Annotation Data 
+"ID"	"Desc"	"listMembership"	"skin.T7.DN"	"skin.T7.UP"	"skin.T14.DN"	"skin.T14.UP"	"muscle.DN"	"muscle.UP"	"skin.T7.DN.Pvalue"	"skin.T7.DN.FDR"	"skin.T7.DN.OddsRatio"	"skin.T7.DN.ExpCount"	"skin.T7.DN.Count"	"skin.T7.DN.Size"	"skin.T7.UP.Pvalue"	"skin.T7.UP.FDR"	"skin.T7.UP.OddsRatio"	"skin.T7.UP.ExpCount"	"skin.T7.UP.Count"	"skin.T7.UP.Size"	"skin.T14.DN.Pvalue"	"skin.T14.DN.FDR"	"skin.T14.DN.OddsRatio"	"skin.T14.DN.ExpCount"	"skin.T14.DN.Count"	"skin.T14.DN.Size"	"skin.T14.UP.Pvalue"	"skin.T14.UP.FDR"	"skin.T14.UP.OddsRatio"	"skin.T14.UP.ExpCount"	"skin.T14.UP.Count"	"skin.T14.UP.Size"	"muscle.DN.Pvalue"	"muscle.DN.FDR"	"muscle.DN.OddsRatio"	"muscle.DN.ExpCount"	"muscle.DN.Count"	"muscle.DN.Size"	"muscle.UP.Pvalue"	"muscle.UP.FDR"	"muscle.UP.OddsRatio"	"muscle.UP.ExpCount"	"muscle.UP.Count"	"muscle.UP.Size"
+"GO:0005874"	"microtubule"	"muscle.UP"	NA	TRUE	TRUE	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	0.834511702425859	1	0.654233323587152	4.5200146896805	3	181	0.565440152721162	1	0.985562015503876	9.12311788468601	9	181	0.775284430131182	1	0.705449436322885	2.80839147998531	2	181	0.718853910205021	1	0.866124622702634	12.5494284407865	11	169	0.000689822320694501	1	2.08248753300088	15.5013260173754	29	169
+"GO:0044445"	"cytosolic part"	"muscle.UP"	NA	TRUE	TRUE	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	0.892957752752995	1	0.446748950248123	2.19757620271759	1	88	0.989641997502751	1	0.215118718013256	4.43554902680867	1	88	0.748843390054165	1	0.727695675971538	1.3654058024238	1	88	0.924399381434602	1	0.517665842604038	5.56927297668038	3	75	0.000111466655472505	1	3.16590969810313	6.87928669410151	18	75
+Item Data 
+"Entrez"	"symbol"	"name"	"is.skin.T7.DN"	"is.skin.T7.UP"	"is.skin.T14.DN"	"is.skin.T14.UP"	"is.muscle.DN"	"is.muscle.UP"
+"110893"	"Slc8a3"	"solute carrier family 8 (sodium/calcium exchanger), member 3"	NA	NA	NA	NA	TRUE	NA
+"110954"	"Rpl10"	"ribosomal protein 10"	NA	NA	NA	NA	NA	TRUE
+"11815"	"Apod"	"apolipoprotein D"	NA	NA	NA	TRUE	NA	TRUE
+"12028"	"Bax"	"BCL2-associated X protein"	NA	NA	NA	NA	NA	TRUE
+"12338"	"Capn6"	"calpain 6"	NA	NA	NA	NA	TRUE	NA
+"12461"	"Cct2"	"chaperonin containing Tcp1, subunit 2 (beta)"	NA	NA	NA	NA	NA	TRUE
+"12462"	"Cct3"	"chaperonin containing Tcp1, subunit 3 (gamma)"	NA	NA	NA	NA	NA	TRUE
+"12464"	"Cct4"	"chaperonin containing Tcp1, subunit 4 (delta)"	NA	NA	NA	NA	NA	TRUE
+"12465"	"Cct5"	"chaperonin containing Tcp1, subunit 5 (epsilon)"	NA	NA	NA	NA	NA	TRUE
+"12466"	"Cct6a"	"chaperonin containing Tcp1, subunit 6a (zeta)"	NA	NA	NA	NA	NA	TRUE
+"12468"	"Cct7"	"chaperonin containing Tcp1, subunit 7 (eta)"	NA	NA	NA	NA	NA	TRUE
+"12534"	"Cdk1"	"cyclin-dependent kinase 1"	NA	NA	NA	NA	NA	TRUE
+"13807"	"Eno2"	"enolase 2, gamma neuronal"	NA	TRUE	NA	NA	NA	NA
+"13808"	"Eno3"	"enolase 3, beta muscle"	NA	NA	NA	NA	TRUE	NA
+"15505"	"Hsph1"	"heat shock 105kDa/110kDa protein 1"	NA	NA	NA	NA	NA	TRUE
+"16480"	"Jup"	"junction plakoglobin"	NA	NA	NA	NA	NA	TRUE
+"16561"	"Kif1b"	"kinesin family member 1B"	NA	NA	NA	NA	TRUE	NA
+"16562"	"Kif1c"	"kinesin family member 1C"	NA	NA	NA	NA	TRUE	NA
+"16564"	"Kif21a"	"kinesin family member 21A"	NA	NA	NA	NA	TRUE	NA
+"16573"	"Kif5b"	"kinesin family member 5B"	NA	NA	NA	NA	NA	TRUE
+"16765"	"Stmn1"	"stathmin 1"	NA	NA	NA	NA	NA	TRUE
+"16800"	"Arhgef2"	"rho/rac guanine nucleotide exchange factor (GEF) 2"	NA	NA	NA	NA	NA	TRUE
+"17754"	"Mtap1a"	"microtubule-associated protein 1 A"	NA	NA	NA	TRUE	NA	NA
+"17755"	"Mtap1b"	"microtubule-associated protein 1B"	NA	NA	NA	NA	NA	TRUE
+"17758"	"Mtap4"	"microtubule-associated protein 4"	NA	NA	NA	NA	NA	TRUE
+"17762"	"Mapt"	"microtubule-associated protein tau"	NA	NA	NA	NA	NA	TRUE
+"18000"	"Sept2"	"septin 2"	NA	TRUE	NA	NA	NA	NA
+"18639"	"Pfkfb1"	"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1"	NA	NA	NA	NA	TRUE	NA
+"18642"	"Pfkm"	"phosphofructokinase, muscle"	NA	NA	NA	NA	TRUE	NA
+"18970"	"Polb"	"polymerase (DNA directed), beta"	NA	NA	TRUE	NA	NA	NA
+"19921"	"Rpl19"	"ribosomal protein L19"	NA	NA	NA	NA	NA	TRUE
+"20866"	"Stim1"	"stromal interaction molecule 1"	NA	NA	NA	NA	TRUE	NA
+"21454"	"Tcp1"	"t-complex protein 1"	NA	NA	NA	NA	NA	TRUE
+"21689"	"Tekt1"	"tektin 1"	NA	NA	NA	NA	NA	TRUE
+"22143"	"Tuba1b"	"tubulin, alpha 1B"	NA	NA	NA	NA	NA	TRUE
+"22145"	"Tuba4a"	"tubulin, alpha 4A"	NA	NA	NA	NA	NA	TRUE
+"22151"	"Tubb2a"	"tubulin, beta 2A"	NA	NA	NA	NA	NA	TRUE
+"22154"	"Tubb5"	"tubulin, beta 5"	NA	NA	NA	NA	NA	TRUE
+"227613"	"Tubb2c"	"tubulin, beta 2C"	NA	NA	NA	NA	NA	TRUE
+"229534"	"Pbxip1"	"pre-B-cell leukemia transcription factor interacting protein 1"	NA	NA	NA	NA	NA	TRUE
+"232946"	"Bloc1s3"	"biogenesis of lysosome-related organelles complex-1, subunit 3"	NA	NA	NA	NA	NA	TRUE
+"233406"	"Prc1"	"protein regulator of cytokinesis 1"	NA	NA	NA	NA	NA	TRUE
+"234663"	"Dync1li2"	"dynein, cytoplasmic 1 light intermediate chain 2"	NA	NA	TRUE	NA	NA	NA
+"235180"	"Fez1"	"fasciculation and elongation protein zeta 1 (zygin I)"	NA	NA	NA	NA	NA	TRUE
+"235661"	"Dync1li1"	"dynein cytoplasmic 1 light intermediate chain 1"	NA	NA	NA	NA	NA	TRUE
+"26554"	"Cul3"	"cullin 3"	NA	NA	TRUE	NA	TRUE	NA
+"269713"	"Clip2"	"CAP-GLY domain containing linker protein 2"	NA	TRUE	NA	NA	NA	NA
+"27050"	"Rps3"	"ribosomal protein S3"	NA	NA	NA	NA	NA	TRUE
+"29819"	"Stau2"	"staufen (RNA binding protein) homolog 2 (Drosophila)"	NA	NA	TRUE	NA	NA	NA
+"30960"	"Vapa"	"vesicle-associated membrane protein, associated protein A"	NA	NA	TRUE	NA	NA	NA
+"319670"	"Eml5"	"echinoderm microtubule associated protein like 5"	NA	NA	NA	NA	NA	TRUE
+"53857"	"Tuba8"	"tubulin, alpha 8"	NA	NA	NA	NA	TRUE	NA
+"53860"	"Sept9"	"septin 9"	NA	TRUE	NA	NA	NA	TRUE
+"54141"	"Spag5"	"sperm associated antigen 5"	NA	NA	NA	NA	NA	TRUE
+"56455"	"Dynll1"	"dynein light chain LC8-type 1"	NA	NA	NA	NA	NA	TRUE
+"56470"	"Rgs19"	"regulator of G-protein signaling 19"	NA	NA	NA	NA	NA	TRUE
+"56612"	"Pfdn5"	"prefoldin 5"	NA	NA	TRUE	NA	NA	NA
+"57436"	"Gabarapl1"	"gamma-aminobutyric acid (GABA) A receptor-associated protein-like 1"	NA	NA	NA	NA	NA	TRUE
+"65019"	"Rpl23"	"ribosomal protein L23"	NA	NA	NA	NA	NA	TRUE
+"66302"	"Fam82b"	"family with sequence similarity 82, member B"	NA	NA	NA	NA	TRUE	NA
+"66648"	"5730494M16Rik"	"RIKEN cDNA 5730494M16 gene"	NA	NA	NA	NA	TRUE	NA
+"66734"	"Map1lc3a"	"microtubule-associated protein 1 light chain 3 alpha"	NA	NA	NA	NA	NA	TRUE
+"67117"	"Dynlt3"	"dynein light chain Tctex-type 3"	NA	NA	TRUE	NA	NA	NA
+"67951"	"Tubb6"	"tubulin, beta 6"	NA	NA	NA	NA	NA	TRUE
+"68142"	"Ino80"	"INO80 homolog (S. cerevisiae)"	NA	NA	TRUE	NA	NA	NA
+"68922"	"Dnaic1"	"dynein, axonemal, intermediate chain 1"	NA	NA	NA	NA	NA	TRUE
+"72404"	"Wdr44"	"WD repeat domain 44"	NA	NA	TRUE	NA	NA	NA
+"72948"	"Tppp"	"tubulin polymerization promoting protein"	NA	NA	NA	NA	TRUE	NA
+"73710"	"Tubb2b"	"tubulin, beta 2B"	NA	NA	NA	NA	NA	TRUE
+"74256"	"Cyld"	"cylindromatosis (turban tumor syndrome)"	NA	NA	NA	NA	NA	TRUE
+"75617"	"Rps25"	"ribosomal protein S25"	NA	NA	NA	NA	NA	TRUE
+"76478"	"Haus8"	"4HAUS augmin-like complex, subunit 8"	NA	NA	NA	NA	NA	TRUE
+"76499"	"Clasp2"	"CLIP associating protein 2"	NA	NA	TRUE	NA	NA	NA
+"76846"	"Rps9"	"ribosomal protein S9"	NA	NA	NA	NA	NA	TRUE
+"78177"	"Ninl"	"ninein-like"	NA	NA	NA	TRUE	NA	NA
+
+
+ mitochondrialMembrane.skinT14DN.muscleDN 
+ Annotation Data 
+"ID"	"Desc"	"listMembership"	"skin.T7.DN"	"skin.T7.UP"	"skin.T14.DN"	"skin.T14.UP"	"muscle.DN"	"muscle.UP"	"skin.T7.DN.Pvalue"	"skin.T7.DN.FDR"	"skin.T7.DN.OddsRatio"	"skin.T7.DN.ExpCount"	"skin.T7.DN.Count"	"skin.T7.DN.Size"	"skin.T7.UP.Pvalue"	"skin.T7.UP.FDR"	"skin.T7.UP.OddsRatio"	"skin.T7.UP.ExpCount"	"skin.T7.UP.Count"	"skin.T7.UP.Size"	"skin.T14.DN.Pvalue"	"skin.T14.DN.FDR"	"skin.T14.DN.OddsRatio"	"skin.T14.DN.ExpCount"	"skin.T14.DN.Count"	"skin.T14.DN.Size"	"skin.T14.UP.Pvalue"	"skin.T14.UP.FDR"	"skin.T14.UP.OddsRatio"	"skin.T14.UP.ExpCount"	"skin.T14.UP.Count"	"skin.T14.UP.Size"	"muscle.DN.Pvalue"	"muscle.DN.FDR"	"muscle.DN.OddsRatio"	"muscle.DN.ExpCount"	"muscle.DN.Count"	"muscle.DN.Size"	"muscle.UP.Pvalue"	"muscle.UP.FDR"	"muscle.UP.OddsRatio"	"muscle.UP.ExpCount"	"muscle.UP.Count"	"muscle.UP.Size"
+"GO:0005741"	"mitochondrial outer membrane"	"muscle.DN"	NA	NA	TRUE	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.0449025603964986	1	2.1393871547213	3.98191333088505	8	79	0.710572618201325	1	0.812347374847375	1.22576202717591	1	79	0.000129224444221908	1	3.50934058274083	5.12373113854595	15	69	0.178466317537651	1	1.4897384305835	6.32894375857339	9	69
+"GO:0005747"	"mitochondrial respiratory chain complex I"	"muscle.DN"	NA	NA	TRUE	NA	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.0055175305591747	1	4.22181297319419	1.66333088505325	6	33	NA	NA	NA	NA	NA	NA	6.89803482132963e-05	1	5.72489231466788	2.37622313671696	10	32	NA	NA	NA	NA	NA	NA
+"GO:0019867"	"outer membrane"	"muscle.DN"	NA	NA	TRUE	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.0833872161741897	1	1.85041251521573	4.53635695923614	8	90	0.756639655760926	1	0.711209202782237	1.39643775247888	1	90	2.45379390735052e-05	1	3.56309036523929	6.08907178783722	18	82	0.21691160815113	1	1.37909813136399	7.52135345221765	10	82
+"GO:0030964"	"NADH dehydrogenase complex"	"muscle.DN"	NA	NA	TRUE	NA	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.0055175305591747	1	4.22181297319419	1.66333088505325	6	33	NA	NA	NA	NA	NA	NA	6.89803482132963e-05	1	5.72489231466788	2.37622313671696	10	32	NA	NA	NA	NA	NA	NA
+"GO:0031968"	"organelle outer membrane"	"muscle.DN"	NA	NA	TRUE	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.0792737544589822	1	1.87343967504165	4.4859529930224	8	89	0.752772070828031	1	0.719358766233766	1.38092177745134	1	89	1.42673457643564e-05	1	3.7394392368997	5.86630086877	18	79	0.297991915763224	1	1.27562517964932	7.24618198445359	9	79
+"GO:0045271"	"respiratory chain complex I"	"muscle.DN"	NA	NA	TRUE	NA	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.0055175305591747	1	4.22181297319419	1.66333088505325	6	33	NA	NA	NA	NA	NA	NA	6.89803482132963e-05	1	5.72489231466788	2.37622313671696	10	32	NA	NA	NA	NA	NA	NA
+"GO:0044455"	"mitochondrial membrane part"	"skin.T14.DN,muscle.DN"	NA	TRUE	TRUE	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	0.887358207131461	1	0.457347514651617	2.14763128901946	1	86	0.000345903752149187	1	3.41213453281538	4.3347410943812	13	86	0.740798888854065	1	0.744957983193277	1.33437385236871	1	86	3.85229972881914e-10	1	5.45638843699162	6.46035665294925	26	87	0.997792696520714	1	0.231462654992067	7.97997256515775	2	87
+"GO:0005740"	"mitochondrial envelope"	"skin.T14.DN,muscle.DN"	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	0.633987247428018	1	1.01300578034682	0.98760558207859	1	347	0.999866277594168	1	0.109570633278587	8.66544252662505	1	347	4.36890760106e-10	1	3.13426958831341	17.490176276166	47	347	0.973222990185461	1	0.360253406231016	5.38404333455747	2	347	1.50322604512346e-18	1	3.88029119506881	24.4305441243713	74	329	0.985012865990352	1	0.633619426693926	30.1771376314586	20	329
+"GO:0005743"	"mitochondrial inner membrane"	"skin.T14.DN,muscle.DN"	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	0.520694950985099	1	1.39199475065617	0.725762027175909	1	255	0.998535457817041	1	0.150594183107185	6.3679764965112	1	255	1.48341104710307e-09	1	3.47009117389775	12.8530113845024	38	255	0.982317845261044	1	0.245336520434946	3.9565736320235	1	255	4.10192360777781e-19	1	4.54619806113987	18.6385002286237	64	251	0.999542009455747	1	0.404950838441706	23.0226794695931	10	251
+"GO:0031966"	"mitochondrial membrane"	"skin.T14.DN,muscle.DN"	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	0.612950250942971	1	1.07380224260958	0.933529195739993	1	328	0.999780399221197	1	0.116151528487762	8.19096584649284	1	328	2.20077525956179e-09	1	3.08601310835309	16.532500918105	44	328	0.965358887260606	1	0.381947760919878	5.08923980903415	2	328	1.19620253524899e-18	1	3.98959291241449	23.2424325560128	72	313	0.990690002631335	1	0.596974963434569	28.7095564700503	18	313
+"GO:0019866"	"organelle inner membrane"	"skin.T14.DN,muscle.DN"	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	0.538549931993518	1	1.32259675405743	0.762761659933896	1	268	0.998954388959068	1	0.143082217339027	6.69261843554903	1	268	6.14090229731584e-09	1	3.26975240364162	13.5082629452809	38	268	0.985643025022289	1	0.233101480292492	4.15828130738156	1	268	9.48638433681193e-20	1	4.50799945766389	19.6780978509374	67	265	0.999813468944593	1	0.382165353553304	24.3068129858253	10	265
+"GO:0070469"	"respiratory chain"	"skin.T14.DN,muscle.DN"	NA	NA	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3.64810006426167e-05	1	5.26640334572491	2.57060227690048	11	51	0.55038726445522	1	1.27059523809524	0.791314726404701	1	51	1.24414498072305e-07	1	6.54368617279948	3.49007773205304	16	47	NA	NA	NA	NA	NA	NA
+"GO:0005746"	"mitochondrial respiratory chain"	"skin.T14.DN,muscle.DN"	NA	NA	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.000196815417584686	1	5.20707070707071	2.11696658097686	9	42	0.482128722828488	1	1.55081300813008	0.651670951156812	1	42	7.35738792890495e-07	1	6.56010396361274	3.04453589391861	14	41	NA	NA	NA	NA	NA	NA
+Item Data 
+"Entrez"	"symbol"	"name"	"is.skin.T7.DN"	"is.skin.T7.UP"	"is.skin.T14.DN"	"is.skin.T14.UP"	"is.muscle.DN"	"is.muscle.UP"
+"104910"	"Slc25a47"	"solute carrier family 25, member 47"	NA	NA	NA	NA	TRUE	NA
+"105675"	"Ppif"	"peptidylprolyl isomerase F (cyclophilin F)"	NA	NA	NA	NA	TRUE	NA
+"109731"	"Maob"	"monoamine oxidase B"	NA	NA	NA	NA	TRUE	NA
+"109754"	"Cyb5r3"	"cytochrome b5 reductase 3"	NA	NA	NA	NA	NA	TRUE
+"109900"	"Asl"	"argininosuccinate lyase"	NA	NA	NA	TRUE	NA	TRUE
+"11363"	"Acadl"	"acyl-Coenzyme A dehydrogenase, long-chain"	NA	NA	NA	NA	TRUE	NA
+"11364"	"Acadm"	"acyl-Coenzyme A dehydrogenase, medium chain"	NA	NA	NA	NA	TRUE	NA
+"11370"	"Acadvl"	"acyl-Coenzyme A dehydrogenase, very long chain"	NA	NA	NA	NA	TRUE	NA
+"11637"	"Ak2"	"adenylate kinase 2"	NA	NA	NA	NA	NA	TRUE
+"11640"	"Akap1"	"A kinase (PRKA) anchor protein 1"	NA	NA	NA	NA	TRUE	NA
+"11739"	"Slc25a4"	"solute carrier family 25 (mitochondrial carrier, adenine nucleotide translocator), member 4"	NA	NA	NA	NA	TRUE	NA
+"11898"	"Ass1"	"argininosuccinate synthetase 1"	NA	NA	NA	NA	NA	TRUE
+"11946"	"Atp5a1"	"ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1"	NA	NA	NA	NA	TRUE	NA
+"11949"	"Atp5c1"	"ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1"	NA	NA	NA	NA	TRUE	NA
+"11950"	"Atp5f1"	"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit B1"	NA	NA	TRUE	NA	TRUE	NA
+"12028"	"Bax"	"BCL2-associated X protein"	NA	NA	NA	NA	NA	TRUE
+"12257"	"Tspo"	"translocator protein"	NA	NA	NA	NA	NA	TRUE
+"12359"	"Cat"	"catalase"	NA	NA	TRUE	NA	NA	TRUE
+"12856"	"Cox17"	"cytochrome c oxidase, subunit XVII assembly protein homolog (yeast)"	NA	NA	TRUE	NA	NA	NA
+"12857"	"Cox4i1"	"cytochrome c oxidase subunit IV isoform 1"	NA	NA	TRUE	NA	NA	NA
+"12896"	"Cpt2"	"carnitine palmitoyltransferase 2"	NA	NA	NA	NA	TRUE	NA
+"12908"	"Crat"	"carnitine acetyltransferase"	NA	NA	NA	NA	TRUE	NA
+"13360"	"Dhcr7"	"7-dehydrocholesterol reductase"	NA	NA	NA	NA	TRUE	NA
+"14057"	"Sfxn1"	"sideroflexin 1"	NA	NA	NA	NA	NA	TRUE
+"14081"	"Acsl1"	"acyl-CoA synthetase long-chain family member 1"	NA	NA	NA	NA	TRUE	NA
+"14245"	"Lpin1"	"lipin 1"	NA	NA	NA	NA	TRUE	NA
+"14719"	"Got2"	"glutamate oxaloacetate transaminase 2, mitochondrial"	NA	NA	TRUE	NA	TRUE	NA
+"14933"	"Gyk"	"glycerol kinase"	NA	NA	NA	NA	NA	TRUE
+"15107"	"Hadh"	"hydroxyacyl-Coenzyme A dehydrogenase"	NA	NA	NA	NA	TRUE	NA
+"15204"	"Herc2"	"hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 2"	NA	NA	TRUE	NA	NA	NA
+"16438"	"Itpr1"	"inositol 1,4,5-trisphosphate receptor 1"	NA	NA	NA	NA	TRUE	NA
+"16854"	"Lgals3"	"lectin, galactose binding, soluble 3"	NA	NA	NA	NA	NA	TRUE
+"17096"	"Lyn"	"Yamaguchi sarcoma viral (v-yes-1) oncogene homolog"	NA	TRUE	NA	NA	NA	NA
+"17448"	"Mdh2"	"malate dehydrogenase 2, NAD (mitochondrial)"	NA	NA	NA	NA	TRUE	NA
+"17718"	"ND3"	"NADH dehydrogenase subunit 3"	NA	NA	TRUE	NA	NA	NA
+"17992"	"Ndufa4"	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4"	NA	NA	TRUE	NA	NA	NA
+"17995"	"Ndufv1"	"NADH dehydrogenase (ubiquinone) flavoprotein 1"	NA	NA	NA	NA	TRUE	NA
+"18173"	"Slc11a1"	"solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1"	NA	NA	NA	NA	NA	TRUE
+"18408"	"Slc25a15"	"solute carrier family 25 (mitochondrial carrier ornithine transporter), member 15"	NA	NA	NA	NA	TRUE	NA
+"18673"	"Phb"	"prohibitin"	NA	NA	NA	NA	TRUE	NA
+"19047"	"Ppp1cc"	"protein phosphatase 1, catalytic subunit, gamma isoform"	NA	NA	TRUE	NA	NA	NA
+"19125"	"Prodh"	"proline dehydrogenase"	NA	NA	NA	NA	TRUE	NA
+"20656"	"Sod2"	"superoxide dismutase 2, mitochondrial"	NA	NA	NA	NA	TRUE	NA
+"208638"	"Slc25a38"	"solute carrier family 25, member 38"	NA	NA	NA	NA	NA	TRUE
+"20930"	"Surf1"	"surfeit gene 1"	NA	NA	TRUE	NA	NA	NA
+"214663"	"Slc25a29"	"solute carrier family 25 (mitochondrial carrier, palmitoylcarnitine transporter), member 29"	NA	NA	NA	NA	TRUE	NA
+"214952"	"Rhot2"	"ras homolog gene family, member T2"	NA	NA	NA	NA	TRUE	NA
+"216821"	"Tmem11"	"transmembrane protein 11"	NA	NA	TRUE	NA	NA	NA
+"21856"	"Timm44"	"translocase of inner mitochondrial membrane 44"	NA	NA	NA	NA	TRUE	NA
+"218865"	"Chdh"	"choline dehydrogenase"	NA	NA	TRUE	NA	NA	NA
+"22229"	"Ucp3"	"uncoupling protein 3 (mitochondrial, proton carrier)"	NA	NA	NA	NA	TRUE	NA
+"22273"	"Uqcrc1"	"ubiquinol-cytochrome c reductase core protein 1"	NA	NA	NA	NA	TRUE	NA
+"22333"	"Vdac1"	"voltage-dependent anion channel 1"	NA	NA	NA	NA	TRUE	NA
+"22334"	"Vdac2"	"voltage-dependent anion channel 2"	NA	NA	TRUE	NA	NA	NA
+"22335"	"Vdac3"	"voltage-dependent anion channel 3"	NA	NA	TRUE	NA	TRUE	NA
+"223697"	"Sun2"	"Sad1 and UNC84 domain containing 2"	NA	NA	NA	NA	TRUE	NA
+"225887"	"Ndufs8"	"NADH dehydrogenase (ubiquinone) Fe-S protein 8"	NA	NA	NA	NA	TRUE	NA
+"227197"	"Ndufs1"	"NADH dehydrogenase (ubiquinone) Fe-S protein 1"	NA	NA	NA	NA	TRUE	NA
+"228607"	"Mavs"	"mitochondrial antiviral signaling protein"	NA	NA	NA	NA	TRUE	NA
+"229524"	"Msto1"	"misato homolog 1 (Drosophila)"	NA	NA	NA	NA	NA	TRUE
+"229731"	"Slc25a24"	"solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 24"	NA	NA	TRUE	NA	NA	TRUE
+"24071"	"Synj2bp"	"synaptojanin 2 binding protein"	NA	NA	NA	NA	TRUE	NA
+"26457"	"Slc27a1"	"solute carrier family 27 (fatty acid transporter), member 1"	NA	NA	NA	NA	TRUE	NA
+"26926"	"Aifm1"	"apoptosis-inducing factor, mitochondrion-associated 1"	NA	NA	TRUE	NA	NA	NA
+"269951"	"Idh2"	"isocitrate dehydrogenase 2 (NADP+), mitochondrial"	NA	NA	NA	NA	TRUE	NA
+"30057"	"Timm8b"	"translocase of inner mitochondrial membrane 8 homolog b (yeast)"	NA	NA	TRUE	NA	NA	NA
+"319565"	"Syne2"	"synaptic nuclear envelope 2"	NA	NA	NA	NA	TRUE	NA
+"384071"	"Slc25a34"	"solute carrier family 25, member 34"	NA	NA	NA	NA	TRUE	NA
+"50790"	"Acsl4"	"acyl-CoA synthetase long-chain family member 4"	NA	NA	TRUE	NA	NA	NA
+"52538"	"Acaa2"	"acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-oxoacyl-Coenzyme A thiolase)"	NA	NA	NA	NA	TRUE	NA
+"52637"	"Cisd1"	"CDGSH iron sulfur domain 1"	NA	NA	TRUE	NA	NA	NA
+"52815"	"Ldhd"	"lactate dehydrogenase D"	NA	NA	NA	NA	TRUE	NA
+"53375"	"Mtx2"	"metaxin 2"	NA	NA	TRUE	NA	NA	NA
+"54405"	"Ndufa1"	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 1"	NA	NA	TRUE	NA	NA	NA
+"54673"	"Sh3glb1"	"SH3-domain GRB2-like B1 (endophilin)"	NA	NA	TRUE	NA	NA	NA
+"56199"	"Abcb10"	"ATP-binding cassette, sub-family B (MDR/TAP), member 10"	NA	NA	TRUE	NA	NA	NA
+"56338"	"Txnip"	"thioredoxin interacting protein"	NA	NA	NA	NA	TRUE	NA
+"56384"	"Letm1"	"leucine zipper-EF-hand containing transmembrane protein 1"	NA	NA	NA	NA	TRUE	NA
+"56428"	"Mtch2"	"mitochondrial carrier homolog 2 (C. elegans)"	NA	NA	TRUE	NA	NA	NA
+"56462"	"Mtch1"	"mitochondrial carrier homolog 1 (C. elegans)"	NA	NA	NA	NA	NA	TRUE
+"56717"	"Mtor"	"mechanistic target of rapamycin (serine/threonine kinase)"	NA	NA	NA	NA	NA	TRUE
+"56749"	"Dhodh"	"dihydroorotate dehydrogenase"	NA	NA	NA	NA	TRUE	NA
+"64704"	"Htra2"	"HtrA serine peptidase 2"	NA	NA	NA	NA	NA	TRUE
+"66046"	"Ndufb5"	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5"	NA	NA	TRUE	NA	TRUE	NA
+"66052"	"Sdhc"	"succinate dehydrogenase complex, subunit C, integral membrane protein"	NA	NA	NA	NA	TRUE	NA
+"66075"	"Chchd3"	"coiled-coil-helix-coiled-coil-helix domain containing 3"	NA	NA	TRUE	NA	TRUE	NA
+"66092"	"Ghitm"	"growth hormone inducible transmembrane protein"	NA	NA	TRUE	NA	NA	NA
+"66377"	"Ndufc1"	"NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 1"	NA	NA	TRUE	NA	NA	NA
+"66427"	"Cyb5b"	"cytochrome b5 type B"	NA	NA	NA	NA	TRUE	NA
+"66445"	"Cyc1"	"cytochrome c-1"	NA	NA	NA	NA	TRUE	NA
+"66461"	"Ptpmt1"	"protein tyrosine phosphatase, mitochondrial 1"	NA	NA	NA	NA	TRUE	NA
+"66477"	"Usmg5"	"upregulated during skeletal muscle growth 5"	NA	NA	TRUE	NA	NA	NA
+"66495"	"Ndufb3"	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex 3"	NA	NA	TRUE	NA	NA	NA
+"66576"	"Uqcrh"	"ubiquinol-cytochrome c reductase hinge protein"	NA	NA	TRUE	NA	NA	NA
+"66586"	"Crls1"	"cardiolipin synthase 1"	NA	NA	TRUE	NA	NA	NA
+"66594"	"Uqcr11"	"ubiquinol-cytochrome c reductase, complex III subunit XI"	NA	NA	TRUE	NA	NA	NA
+"66694"	"Uqcrfs1"	"ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1"	NA	NA	NA	NA	TRUE	NA
+"66706"	"Ndufaf3"	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 3"	NA	NA	TRUE	NA	NA	NA
+"66821"	"Bcs1l"	"BCS1-like (yeast)"	NA	NA	NA	NA	TRUE	NA
+"66841"	"Etfdh"	"electron transferring flavoprotein, dehydrogenase"	NA	NA	NA	NA	TRUE	NA
+"66925"	"Sdhd"	"succinate dehydrogenase complex, subunit D, integral membrane protein"	NA	NA	TRUE	NA	TRUE	NA
+"66945"	"Sdha"	"succinate dehydrogenase complex, subunit A, flavoprotein (Fp)"	NA	NA	TRUE	NA	TRUE	NA
+"67003"	"Uqcrc2"	"ubiquinol cytochrome c reductase core protein 2"	NA	NA	TRUE	NA	TRUE	NA
+"67036"	"Mrpl45"	"mitochondrial ribosomal protein L45"	NA	NA	TRUE	NA	NA	NA
+"67092"	"Gatm"	"glycine amidinotransferase (L-arginine:glycine amidinotransferase)"	NA	NA	NA	NA	NA	TRUE
+"67273"	"Ndufa10"	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 10"	NA	NA	NA	NA	TRUE	NA
+"67283"	"Slc25a19"	"solute carrier family 25 (mitochondrial thiamine pyrophosphate carrier), member 19"	NA	NA	NA	NA	TRUE	NA
+"67414"	"Mfn1"	"mitofusin 1"	NA	NA	NA	NA	TRUE	NA
+"67442"	"Retsat"	"retinol saturase (all trans retinol 13,14 reductase)"	NA	NA	NA	NA	TRUE	NA
+"67453"	"Slc25a46"	"solute carrier family 25, member 46"	NA	NA	TRUE	NA	NA	NA
+"67530"	"Uqcrb"	"ubiquinol-cytochrome c reductase binding protein"	NA	NA	TRUE	NA	NA	NA
+"67680"	"Sdhb"	"succinate dehydrogenase complex, subunit B, iron sulfur (Ip)"	NA	NA	TRUE	NA	TRUE	NA
+"67821"	"Atp1b4"	"ATPase, (Na+)/K+ transporting, beta 4 polypeptide"	NA	NA	NA	NA	TRUE	NA
+"67863"	"Slc25a11"	"solute carrier family 25 (mitochondrial carrier oxoglutarate carrier), member 11"	NA	NA	NA	NA	TRUE	NA
+"67900"	"Mtfp1"	"mitochondrial fission process 1"	NA	NA	TRUE	NA	TRUE	NA
+"67952"	"Tomm20"	"translocase of outer mitochondrial membrane 20 homolog (yeast)"	NA	NA	NA	NA	NA	TRUE
+"68198"	"Ndufb2"	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 2"	NA	NA	TRUE	NA	TRUE	NA
+"68342"	"Ndufb10"	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10"	NA	NA	NA	NA	TRUE	NA
+"68346"	"Sirt5"	"sirtuin 5 (silent mating type information regulation 2 homolog) 5 (S. cerevisiae)"	NA	NA	TRUE	NA	TRUE	NA
+"68375"	"Ndufa8"	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 8"	NA	NA	NA	NA	TRUE	NA
+"68493"	"Ndufaf4"	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 4"	NA	NA	TRUE	NA	TRUE	NA
+"68653"	"Samm50"	"sorting and assembly machinery component 50 homolog (S. cerevisiae)"	NA	NA	NA	NA	TRUE	NA
+"69487"	"2310003L22Rik"	"RIKEN cDNA 2310003L22 gene"	NA	NA	NA	NA	TRUE	NA
+"70316"	"Ndufab1"	"NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1"	NA	NA	NA	NA	TRUE	NA
+"70556"	"Slc25a33"	"solute carrier family 25, member 33"	NA	NA	NA	NA	NA	TRUE
+"71911"	"Bdh1"	"3-hydroxybutyrate dehydrogenase, type 1"	NA	NA	NA	NA	TRUE	NA
+"72039"	"Mccc1"	"methylcrotonoyl-Coenzyme A carboxylase 1 (alpha)"	NA	NA	TRUE	NA	TRUE	NA
+"74143"	"Opa1"	"optic atrophy 1 homolog (human)"	NA	NA	NA	NA	TRUE	NA
+"75219"	"Dusp18"	"dual specificity phosphatase 18"	NA	NA	NA	NA	NA	TRUE
+"75406"	"Ndufs7"	"NADH dehydrogenase (ubiquinone) Fe-S protein 7"	NA	NA	NA	NA	TRUE	NA
+"76263"	"Gstk1"	"glutathione S-transferase kappa 1"	NA	NA	NA	NA	TRUE	NA
+"84682"	"Cox4i2"	"cytochrome c oxidase subunit IV isoform 2"	NA	NA	NA	TRUE	NA	NA
+
+
+ singleAnnot.skinT14UP 
+ Annotation Data 
+"ID"	"Desc"	"listMembership"	"skin.T7.DN"	"skin.T7.UP"	"skin.T14.DN"	"skin.T14.UP"	"muscle.DN"	"muscle.UP"	"skin.T7.DN.Pvalue"	"skin.T7.DN.FDR"	"skin.T7.DN.OddsRatio"	"skin.T7.DN.ExpCount"	"skin.T7.DN.Count"	"skin.T7.DN.Size"	"skin.T7.UP.Pvalue"	"skin.T7.UP.FDR"	"skin.T7.UP.OddsRatio"	"skin.T7.UP.ExpCount"	"skin.T7.UP.Count"	"skin.T7.UP.Size"	"skin.T14.DN.Pvalue"	"skin.T14.DN.FDR"	"skin.T14.DN.OddsRatio"	"skin.T14.DN.ExpCount"	"skin.T14.DN.Count"	"skin.T14.DN.Size"	"skin.T14.UP.Pvalue"	"skin.T14.UP.FDR"	"skin.T14.UP.OddsRatio"	"skin.T14.UP.ExpCount"	"skin.T14.UP.Count"	"skin.T14.UP.Size"	"muscle.DN.Pvalue"	"muscle.DN.FDR"	"muscle.DN.OddsRatio"	"muscle.DN.ExpCount"	"muscle.DN.Count"	"muscle.DN.Size"	"muscle.UP.Pvalue"	"muscle.UP.FDR"	"muscle.UP.OddsRatio"	"muscle.UP.ExpCount"	"muscle.UP.Count"	"muscle.UP.Size"
+"GO:0008021"	"synaptic vesicle"	"skin.T14.UP"	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	0.218139250791185	1	4.22588235294118	0.244766801322071	1	86	0.887358207131461	1	0.457347514651617	2.14763128901946	1	86	0.815462050595833	1	0.679200317754535	4.3347410943812	3	86	0.000366984669005765	1	5.82184716361932	1.33437385236871	7	86	0.943732797470044	1	0.428480204342273	4.45541838134431	2	60	0.310260064232463	1	1.31001363946351	5.50342935528121	7	60
+Item Data 
+"Entrez"	"symbol"	"name"	"is.skin.T7.DN"	"is.skin.T7.UP"	"is.skin.T14.DN"	"is.skin.T14.UP"	"is.muscle.DN"	"is.muscle.UP"
+"11972"	"Atp6v0d1"	"ATPase, H+ transporting, lysosomal V0 subunit D1"	NA	NA	NA	NA	NA	TRUE
+"13002"	"Dnajc5"	"DnaJ (Hsp40) homolog, subfamily C, member 5"	NA	NA	NA	NA	NA	TRUE
+"140919"	"Slc17a6"	"solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 6"	NA	NA	NA	TRUE	NA	NA
+"14810"	"Grin1"	"glutamate receptor, ionotropic, NMDA1 (zeta 1)"	NA	NA	NA	TRUE	NA	NA
+"17918"	"Myo5a"	"myosin VA"	NA	NA	NA	NA	NA	TRUE
+"19339"	"Rab3a"	"RAB3A, member RAS oncogene family"	NA	NA	NA	NA	TRUE	NA
+"20527"	"Slc2a3"	"solute carrier family 2 (facilitated glucose transporter), member 3"	NA	TRUE	NA	NA	NA	NA
+"20927"	"Abcc8"	"ATP-binding cassette, sub-family C (CFTR/MRP), member 8"	NA	NA	NA	NA	NA	TRUE
+"20977"	"Syp"	"synaptophysin"	NA	NA	NA	TRUE	NA	NA
+"20983"	"Syt4"	"synaptotagmin IV"	NA	NA	NA	NA	NA	TRUE
+"213469"	"Lgi3"	"leucine-rich repeat LGI family, member 3"	NA	NA	NA	TRUE	NA	NA
+"228785"	"Mylk2"	"myosin, light polypeptide kinase 2, skeletal muscle"	NA	NA	NA	NA	TRUE	NA
+"229521"	"Syt11"	"synaptotagmin XI"	NA	NA	NA	TRUE	NA	NA
+"234678"	"D230025D16Rik"	"RIKEN cDNA D230025D16 gene"	NA	NA	NA	NA	NA	TRUE
+"235380"	"Dmxl2"	"Dmx-like 2"	NA	NA	NA	NA	NA	TRUE
+"30785"	"Cttnbp2"	"cortactin binding protein 2"	NA	NA	TRUE	NA	NA	NA
+"54725"	"Cadm1"	"cell adhesion molecule 1"	NA	NA	TRUE	NA	NA	NA
+"55925"	"Syt8"	"synaptotagmin VIII"	NA	NA	NA	TRUE	NA	NA
+"66237"	"Atp6v1g2"	"ATPase, H+ transporting, lysosomal V1 subunit G2"	NA	NA	NA	TRUE	NA	NA
+
+
+ extracellularMatrix.skinT7UP 
+ Annotation Data 
+"ID"	"Desc"	"listMembership"	"skin.T7.DN"	"skin.T7.UP"	"skin.T14.DN"	"skin.T14.UP"	"muscle.DN"	"muscle.UP"	"skin.T7.DN.Pvalue"	"skin.T7.DN.FDR"	"skin.T7.DN.OddsRatio"	"skin.T7.DN.ExpCount"	"skin.T7.DN.Count"	"skin.T7.DN.Size"	"skin.T7.UP.Pvalue"	"skin.T7.UP.FDR"	"skin.T7.UP.OddsRatio"	"skin.T7.UP.ExpCount"	"skin.T7.UP.Count"	"skin.T7.UP.Size"	"skin.T14.DN.Pvalue"	"skin.T14.DN.FDR"	"skin.T14.DN.OddsRatio"	"skin.T14.DN.ExpCount"	"skin.T14.DN.Count"	"skin.T14.DN.Size"	"skin.T14.UP.Pvalue"	"skin.T14.UP.FDR"	"skin.T14.UP.OddsRatio"	"skin.T14.UP.ExpCount"	"skin.T14.UP.Count"	"skin.T14.UP.Size"	"muscle.DN.Pvalue"	"muscle.DN.FDR"	"muscle.DN.OddsRatio"	"muscle.DN.ExpCount"	"muscle.DN.Count"	"muscle.DN.Size"	"muscle.UP.Pvalue"	"muscle.UP.FDR"	"muscle.UP.OddsRatio"	"muscle.UP.ExpCount"	"muscle.UP.Count"	"muscle.UP.Size"
+"GO:0005578"	"proteinaceous extracellular matrix"	"skin.T7.UP"	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	0.464585444286769	1	1.64274691358025	0.617609254498715	1	217	4.53270641601939e-12	1	6.04962406015038	5.41902313624679	27	217	0.999848072216502	1	0.172237574933039	10.9376606683805	2	217	0.247551316978283	1	1.51159111826967	3.36696658097686	5	217	0.36910274220272	1	1.11341247474873	16.3365340649291	18	220	0.94871056064529	1	0.668342053854536	20.1792409693644	14	220
+"GO:0044420"	"extracellular matrix part"	"skin.T7.UP"	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	0.278642640265318	1	3.17050147492625	0.324458318031583	1	114	1.41825608209204e-07	1	6.20268836222144	2.84686008079324	15	114	0.981030538947853	1	0.333997127187255	5.74605214836577	2	114	0.10119928733811	1	2.33895316804408	1.76882115313992	4	114	0.120651209463072	1	1.51878787878788	8.24252400548697	12	111	0.89359150681947	1	0.664156626506024	10.1813443072702	7	111
+"GO:0031012"	"extracellular matrix"	"skin.T7.UP"	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	0.509376889287271	1	1.43834688346883	0.702993022401763	1	247	1.9275948089599e-15	1	6.7140734368279	6.16819684171869	33	247	0.999964839023517	1	0.150699548557997	12.4497796547925	2	247	0.185844180945564	1	1.60099788712675	3.83244583180316	6	247	0.283541904323086	1	1.16790560471976	18.2672153635117	21	246	0.748225496099763	1	0.873792526040026	22.5640603566529	20	246
+"GO:0005581"	"collagen"	"skin.T7.UP"	NA	TRUE	TRUE	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	0.000408131095484758	1	5.81792452830189	1.37348512669849	7	55	0.772806648791196	1	0.709875478596806	2.77221814175542	2	55	0.57777816797335	1	1.17603615520282	0.853378626514873	1	55	0.297927533922227	1	1.41925763208291	3.63859167809785	5	49	0.839718771217249	1	0.644739130434783	4.49446730681299	3	49
+"GO:0005604"	"basement membrane"	"skin.T7.UP"	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	0.15516235752847	1	6.20862068965517	0.167921410209328	1	59	1.8606811511472e-07	1	9.28256704980843	1.47337495409475	11	59	0.805401506465449	1	0.659803072580904	2.97383400661036	2	59	0.232820004634632	1	2.24099170080891	0.915442526625046	2	59	0.0932121157020593	1	1.82143826322931	4.67818930041152	8	63	0.841785144954455	1	0.670025958161551	5.77860082304527	4	63
+Item Data 
+"Entrez"	"symbol"	"name"	"is.skin.T7.DN"	"is.skin.T7.UP"	"is.skin.T14.DN"	"is.skin.T14.UP"	"is.muscle.DN"	"is.muscle.UP"
+"100952"	"Emilin1"	"elastin microfibril interfacer 1"	NA	TRUE	NA	NA	NA	NA
+"107581"	"Col16a1"	"collagen, type XVI, alpha 1"	NA	TRUE	NA	NA	NA	NA
+"12111"	"Bgn"	"biglycan"	NA	TRUE	NA	NA	NA	TRUE
+"12260"	"C1qb"	"complement component 1, q subcomponent, beta polypeptide"	NA	NA	NA	NA	NA	TRUE
+"12317"	"Calr"	"calreticulin"	NA	TRUE	NA	NA	NA	TRUE
+"12816"	"Col12a1"	"collagen, type XII, alpha 1"	NA	TRUE	NA	NA	NA	NA
+"12821"	"Col17a1"	"collagen, type XVII, alpha 1"	NA	NA	TRUE	NA	NA	NA
+"12822"	"Col18a1"	"collagen, type XVIII, alpha 1"	NA	TRUE	NA	NA	NA	TRUE
+"12826"	"Col4a1"	"collagen, type IV, alpha 1"	NA	TRUE	NA	NA	NA	NA
+"12828"	"Col4a3"	"collagen, type IV, alpha 3"	NA	NA	NA	NA	TRUE	NA
+"12830"	"Col4a5"	"collagen, type IV, alpha 5"	NA	NA	TRUE	NA	NA	NA
+"12834"	"Col6a2"	"collagen, type VI, alpha 2"	NA	NA	NA	NA	TRUE	NA
+"12837"	"Col8a1"	"collagen, type VIII, alpha 1"	NA	TRUE	NA	NA	NA	NA
+"12839"	"Col9a1"	"collagen, type IX, alpha 1"	NA	NA	NA	NA	TRUE	NA
+"13003"	"Vcan"	"versican"	NA	TRUE	NA	NA	NA	NA
+"13602"	"Sparcl1"	"SPARC-like 1"	NA	NA	NA	NA	TRUE	NA
+"14118"	"Fbn1"	"fibrillin 1"	NA	TRUE	NA	NA	NA	NA
+"14164"	"Fgf1"	"fibroblast growth factor 1"	NA	NA	NA	NA	TRUE	NA
+"14810"	"Grin1"	"glutamate receptor, ionotropic, NMDA1 (zeta 1)"	NA	NA	NA	TRUE	NA	NA
+"15519"	"Hsp90aa1"	"heat shock protein 90, alpha (cytosolic), class A member 1"	NA	NA	NA	NA	NA	TRUE
+"16403"	"Itga6"	"integrin alpha 6"	NA	NA	NA	NA	TRUE	NA
+"16412"	"Itgb1"	"integrin beta 1 (fibronectin receptor beta)"	NA	TRUE	NA	NA	NA	NA
+"16773"	"Lama2"	"laminin, alpha 2"	NA	NA	NA	NA	TRUE	NA
+"16779"	"Lamb2"	"laminin, beta 2"	NA	NA	NA	NA	TRUE	NA
+"16852"	"Lgals1"	"lectin, galactose binding, soluble 1"	NA	NA	NA	NA	NA	TRUE
+"16854"	"Lgals3"	"lectin, galactose binding, soluble 3"	NA	NA	NA	NA	NA	TRUE
+"16949"	"Loxl1"	"lysyl oxidase-like 1"	NA	TRUE	NA	NA	NA	TRUE
+"16956"	"Lpl"	"lipoprotein lipase"	NA	NA	NA	NA	TRUE	NA
+"17313"	"Mgp"	"matrix Gla protein"	NA	TRUE	NA	NA	NA	NA
+"17387"	"Mmp14"	"matrix metallopeptidase 14 (membrane-inserted)"	NA	NA	NA	NA	NA	TRUE
+"17388"	"Mmp15"	"matrix metallopeptidase 15"	NA	NA	NA	NA	TRUE	NA
+"17392"	"Mmp3"	"matrix metallopeptidase 3"	NA	NA	NA	NA	NA	TRUE
+"18073"	"Nid1"	"nidogen 1"	NA	TRUE	NA	NA	NA	NA
+"18133"	"Nov"	"nephroblastoma overexpressed gene"	NA	TRUE	NA	NA	NA	NA
+"18787"	"Serpine1"	"serine (or cysteine) peptidase inhibitor, clade E, member 1"	NA	TRUE	NA	NA	NA	TRUE
+"19039"	"Lgals3bp"	"lectin, galactoside-binding, soluble, 3 binding protein"	NA	TRUE	NA	NA	NA	NA
+"19242"	"Ptn"	"pleiotrophin"	NA	TRUE	NA	NA	NA	NA
+"20720"	"Serpine2"	"serine (or cysteine) peptidase inhibitor, clade E, member 2"	NA	NA	NA	NA	TRUE	NA
+"214425"	"Cilp"	"cartilage intermediate layer protein, nucleotide pyrophosphohydrolase"	NA	NA	NA	NA	NA	TRUE
+"21809"	"Tgfb3"	"transforming growth factor, beta 3"	NA	NA	NA	NA	NA	TRUE
+"21828"	"Thbs4"	"thrombospondin 4"	NA	TRUE	NA	NA	NA	NA
+"21858"	"Timp2"	"tissue inhibitor of metalloproteinase 2"	NA	NA	NA	NA	NA	TRUE
+"21859"	"Timp3"	"tissue inhibitor of metalloproteinase 3"	NA	NA	NA	NA	TRUE	NA
+"22339"	"Vegfa"	"vascular endothelial growth factor A"	NA	NA	NA	NA	TRUE	NA
+"22370"	"Vtn"	"vitronectin"	NA	NA	NA	NA	TRUE	NA
+"22418"	"Wnt5a"	"wingless-related MMTV integration site 5A"	NA	NA	NA	NA	TRUE	NA
+"229595"	"Adamtsl4"	"ADAMTS-like 4"	NA	NA	NA	NA	TRUE	NA
+"233744"	"Spon1"	"spondin 1, (f-spondin) extracellular matrix protein"	NA	TRUE	NA	NA	NA	NA
+"235130"	"Adamts15"	"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 15"	NA	TRUE	NA	NA	NA	NA
+"237759"	"Col23a1"	"collagen, type XXIII, alpha 1"	NA	NA	NA	NA	NA	TRUE
+"23837"	"Cfdp1"	"craniofacial development protein 1"	NA	NA	NA	NA	NA	TRUE
+"239126"	"C1qtnf9"	"C1q and tumor necrosis factor related protein 9"	NA	NA	NA	NA	TRUE	NA
+"246228"	"Vwa1"	"von Willebrand factor A domain containing 1"	NA	TRUE	NA	NA	NA	NA
+"26561"	"Mmp23"	"matrix metallopeptidase 23"	NA	TRUE	NA	NA	NA	NA
+"268780"	"Egflam"	"EGF-like, fibronectin type III and laminin G domains"	NA	NA	NA	NA	TRUE	NA
+"320078"	"Olfml2b"	"olfactomedin-like 2B"	NA	TRUE	NA	NA	NA	NA
+"329278"	"Tnn"	"tenascin N"	NA	TRUE	NA	NA	NA	NA
+"56348"	"Hsd17b12"	"hydroxysteroid (17-beta) dehydrogenase 12"	NA	NA	NA	NA	NA	TRUE
+"56401"	"Lepre1"	"leprecan 1"	NA	TRUE	NA	NA	NA	NA
+"57875"	"Angptl4"	"angiopoietin-like 4"	NA	NA	NA	NA	NA	TRUE
+"66695"	"Aspn"	"asporin"	NA	TRUE	NA	NA	NA	NA
+"69675"	"Pxdn"	"peroxidasin homolog (Drosophila)"	NA	NA	NA	NA	TRUE	NA
+"71355"	"Col24a1"	"collagen, type XXIV, alpha 1"	NA	NA	NA	NA	TRUE	NA
+
+
+ singleAnnot.skinT7UP 
+ Annotation Data 
+"ID"	"Desc"	"listMembership"	"skin.T7.DN"	"skin.T7.UP"	"skin.T14.DN"	"skin.T14.UP"	"muscle.DN"	"muscle.UP"	"skin.T7.DN.Pvalue"	"skin.T7.DN.FDR"	"skin.T7.DN.OddsRatio"	"skin.T7.DN.ExpCount"	"skin.T7.DN.Count"	"skin.T7.DN.Size"	"skin.T7.UP.Pvalue"	"skin.T7.UP.FDR"	"skin.T7.UP.OddsRatio"	"skin.T7.UP.ExpCount"	"skin.T7.UP.Count"	"skin.T7.UP.Size"	"skin.T14.DN.Pvalue"	"skin.T14.DN.FDR"	"skin.T14.DN.OddsRatio"	"skin.T14.DN.ExpCount"	"skin.T14.DN.Count"	"skin.T14.DN.Size"	"skin.T14.UP.Pvalue"	"skin.T14.UP.FDR"	"skin.T14.UP.OddsRatio"	"skin.T14.UP.ExpCount"	"skin.T14.UP.Count"	"skin.T14.UP.Size"	"muscle.DN.Pvalue"	"muscle.DN.FDR"	"muscle.DN.OddsRatio"	"muscle.DN.ExpCount"	"muscle.DN.Count"	"muscle.DN.Size"	"muscle.UP.Pvalue"	"muscle.UP.FDR"	"muscle.UP.OddsRatio"	"muscle.UP.ExpCount"	"muscle.UP.Count"	"muscle.UP.Size"
+"GO:0009986"	"cell surface"	"skin.T7.UP"	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	0.636136181298876	1	1.00699233716475	0.993297833272126	1	349	4.63292877590774e-08	1	3.68178336142179	8.71538744032317	28	349	0.941955116124585	1	0.66349485270958	17.5909842085935	12	349	0.0934833315190446	1	1.71777573529412	5.41507528461256	9	349	0.196976576168841	1	1.21096059113301	23.6137174211248	28	318	0.463888825319412	1	1.03245974648852	29.1681755829904	30	318
+"GO:0005788"	"endoplasmic reticulum lumen"	"skin.T7.UP"	NA	TRUE	NA	NA	TRUE	TRUE	NA	NA	NA	NA	NA	NA	0.000173928197806474	1	11.679885437321	0.549394050679398	5	22	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.493853820046843	1	1.24728395061728	1.63365340649291	2	22	0.136977991398799	1	2.20531642753865	2.01792409693644	4	22
+"GO:0005793"	"endoplasmic reticulum-Golgi intermediate compartment"	"skin.T7.UP"	NA	TRUE	NA	TRUE	NA	TRUE	NA	NA	NA	NA	NA	NA	2.74928460199373e-07	1	16.0606060606061	0.699228791773779	8	28	NA	NA	NA	NA	NA	NA	0.354932876696016	1	2.35802469135802	0.434447300771208	1	28	NA	NA	NA	NA	NA	NA	0.0251601803215459	1	3.5492413398225	1.74275262917238	5	19
+Item Data 
+"Entrez"	"symbol"	"name"	"is.skin.T7.DN"	"is.skin.T7.UP"	"is.skin.T14.DN"	"is.skin.T14.UP"	"is.muscle.DN"	"is.muscle.UP"
+"100037258"	"Dnajc3"	"DnaJ (Hsp40) homolog, subfamily C, member 3"	NA	NA	NA	NA	NA	TRUE
+"102657"	"Cd276"	"CD276 antigen"	NA	TRUE	NA	NA	NA	NA
+"108960"	"Irak2"	"interleukin-1 receptor-associated kinase 2"	NA	NA	NA	NA	NA	TRUE
+"109700"	"Itga1"	"integrin alpha 1"	NA	NA	NA	NA	TRUE	NA
+"11435"	"Chrna1"	"cholinergic receptor, nicotinic, alpha polypeptide 1 (muscle)"	NA	NA	NA	NA	NA	TRUE
+"11479"	"Acvr1b"	"activin A receptor, type 1B"	NA	NA	NA	NA	TRUE	NA
+"11481"	"Acvr2b"	"activin receptor IIB"	NA	NA	NA	NA	TRUE	NA
+"11501"	"Adam8"	"a disintegrin and metallopeptidase domain 8"	NA	NA	TRUE	NA	NA	NA
+"11747"	"Anxa5"	"annexin A5"	NA	TRUE	NA	NA	NA	NA
+"11829"	"Aqp4"	"aquaporin 4"	NA	NA	TRUE	NA	TRUE	NA
+"12111"	"Bgn"	"biglycan"	NA	TRUE	NA	NA	NA	TRUE
+"12317"	"Calr"	"calreticulin"	NA	TRUE	NA	NA	NA	TRUE
+"12372"	"Casq1"	"calsequestrin 1"	NA	NA	NA	NA	TRUE	NA
+"12389"	"Cav1"	"caveolin 1, caveolae protein"	NA	NA	NA	NA	TRUE	NA
+"12390"	"Cav2"	"caveolin 2"	NA	NA	TRUE	NA	NA	NA
+"12406"	"Serpinh1"	"serine (or cysteine) peptidase inhibitor, clade H, member 1"	NA	TRUE	NA	NA	NA	NA
+"12482"	"Ms4a1"	"membrane-spanning 4-domains, subfamily A, member 1"	NA	NA	NA	TRUE	NA	NA
+"12491"	"Cd36"	"CD36 antigen"	NA	NA	NA	NA	TRUE	NA
+"12504"	"Cd4"	"CD4 antigen"	NA	TRUE	NA	NA	NA	NA
+"12505"	"Cd44"	"CD44 antigen"	NA	TRUE	NA	NA	NA	TRUE
+"12767"	"Cxcr4"	"chemokine (C-X-C motif) receptor 4"	NA	TRUE	NA	NA	NA	NA
+"12922"	"Crhr2"	"corticotropin releasing hormone receptor 2"	NA	NA	NA	NA	TRUE	NA
+"12955"	"Cryab"	"crystallin, alpha B"	NA	NA	NA	NA	NA	TRUE
+"13039"	"Ctsl"	"cathepsin L"	NA	NA	NA	NA	NA	TRUE
+"13384"	"Mpp3"	"membrane protein, palmitoylated 3 (MAGUK p55 subfamily member 3)"	NA	NA	NA	NA	TRUE	NA
+"14102"	"Fas"	"Fas (TNF receptor superfamily member 6)"	NA	NA	NA	NA	TRUE	NA
+"14129"	"Fcgr1"	"Fc receptor, IgG, high affinity I"	NA	TRUE	NA	NA	NA	NA
+"14184"	"Fgfr3"	"fibroblast growth factor receptor 3"	NA	NA	TRUE	NA	NA	NA
+"14252"	"Flot2"	"flotillin 2"	NA	NA	NA	NA	TRUE	NA
+"14371"	"Fzd9"	"frizzled homolog 9 (Drosophila)"	NA	NA	NA	NA	TRUE	NA
+"14595"	"B4galt1"	"UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1"	NA	NA	NA	NA	TRUE	NA
+"14600"	"Ghr"	"growth hormone receptor"	NA	NA	NA	NA	TRUE	NA
+"14719"	"Got2"	"glutamate oxaloacetate transaminase 2, mitochondrial"	NA	NA	TRUE	NA	TRUE	NA
+"14828"	"Hspa5"	"heat shock protein 5"	NA	NA	NA	NA	NA	TRUE
+"15507"	"Hspb1"	"heat shock protein 1"	NA	NA	NA	NA	NA	TRUE
+"15519"	"Hsp90aa1"	"heat shock protein 90, alpha (cytosolic), class A member 1"	NA	NA	NA	NA	NA	TRUE
+"16403"	"Itga6"	"integrin alpha 6"	NA	NA	NA	NA	TRUE	NA
+"16404"	"Itga7"	"integrin alpha 7"	NA	NA	NA	NA	NA	TRUE
+"16408"	"Itgal"	"integrin alpha L"	NA	TRUE	NA	NA	NA	NA
+"16412"	"Itgb1"	"integrin beta 1 (fibronectin receptor beta)"	NA	TRUE	NA	NA	NA	NA
+"16852"	"Lgals1"	"lectin, galactose binding, soluble 1"	NA	NA	NA	NA	NA	TRUE
+"16956"	"Lpl"	"lipoprotein lipase"	NA	NA	NA	NA	TRUE	NA
+"17064"	"Cd93"	"CD93 antigen"	NA	NA	NA	NA	TRUE	NA
+"17533"	"Mrc1"	"mannose receptor, C type 1"	NA	NA	NA	NA	NA	TRUE
+"17698"	"Msn"	"moesin"	NA	TRUE	NA	NA	NA	TRUE
+"17967"	"Ncam1"	"neural cell adhesion molecule 1"	NA	NA	NA	NA	NA	TRUE
+"18000"	"Sept2"	"septin 2"	NA	TRUE	NA	NA	NA	NA
+"18198"	"Musk"	"muscle, skeletal, receptor tyrosine kinase"	NA	NA	NA	NA	NA	TRUE
+"18453"	"P4hb"	"prolyl 4-hydroxylase, beta polypeptide"	NA	TRUE	NA	NA	NA	TRUE
+"18591"	"Pdgfb"	"platelet derived growth factor, B polypeptide"	NA	NA	NA	NA	TRUE	NA
+"18605"	"Enpp1"	"ectonucleotide pyrophosphatase/phosphodiesterase 1"	NA	TRUE	NA	NA	NA	NA
+"18791"	"Plat"	"plasminogen activator, tissue"	NA	TRUE	NA	NA	NA	NA
+"18793"	"Plaur"	"plasminogen activator, urokinase receptor"	NA	TRUE	NA	NA	NA	NA
+"19126"	"Prom1"	"prominin 1"	NA	NA	NA	NA	TRUE	NA
+"192897"	"Itgb4"	"integrin beta 4"	NA	NA	TRUE	NA	NA	NA
+"20276"	"Scnn1a"	"sodium channel, nonvoltage-gated 1 alpha"	NA	NA	NA	TRUE	NA	NA
+"20333"	"Sec22b"	"SEC22 vesicle trafficking protein homolog B (S. cerevisiae)"	NA	TRUE	NA	NA	NA	NA
+"20343"	"Sell"	"selectin, lymphocyte"	NA	NA	NA	TRUE	NA	NA
+"20379"	"Sfrp4"	"secreted frizzled-related protein 4"	NA	TRUE	NA	NA	NA	NA
+"20528"	"Slc2a4"	"solute carrier family 2 (facilitated glucose transporter), member 4"	NA	NA	NA	NA	TRUE	NA
+"20720"	"Serpine2"	"serine (or cysteine) peptidase inhibitor, clade E, member 2"	NA	NA	NA	NA	TRUE	NA
+"20909"	"Stx4a"	"syntaxin 4A (placental)"	NA	NA	TRUE	NA	NA	TRUE
+"20932"	"Surf4"	"surfeit gene 4"	NA	TRUE	NA	NA	NA	TRUE
+"21336"	"Tacr1"	"tachykinin receptor 1"	NA	NA	NA	TRUE	NA	NA
+"21809"	"Tgfb3"	"transforming growth factor, beta 3"	NA	NA	NA	NA	NA	TRUE
+"21858"	"Timp2"	"tissue inhibitor of metalloproteinase 2"	NA	NA	NA	NA	NA	TRUE
+"21898"	"Tlr4"	"toll-like receptor 4"	NA	NA	NA	NA	NA	TRUE
+"21937"	"Tnfrsf1a"	"tumor necrosis factor receptor superfamily, member 1a"	NA	NA	NA	NA	NA	TRUE
+"22042"	"Tfrc"	"transferrin receptor"	NA	NA	NA	NA	TRUE	NA
+"22329"	"Vcam1"	"vascular cell adhesion molecule 1"	NA	TRUE	NA	NA	NA	NA
+"22339"	"Vegfa"	"vascular endothelial growth factor A"	NA	NA	NA	NA	TRUE	NA
+"22418"	"Wnt5a"	"wingless-related MMTV integration site 5A"	NA	NA	NA	NA	TRUE	NA
+"227290"	"Aamp"	"angio-associated migratory protein"	NA	NA	NA	NA	NA	TRUE
+"234407"	"Glt25d1"	"glycosyltransferase 25 domain containing 1"	NA	TRUE	NA	NA	NA	NA
+"237759"	"Col23a1"	"collagen, type XXIII, alpha 1"	NA	NA	NA	NA	NA	TRUE
+"23892"	"Grem1"	"gremlin 1"	NA	NA	TRUE	NA	NA	NA
+"240725"	"Sulf1"	"sulfatase 1"	NA	TRUE	NA	NA	NA	NA
+"24088"	"Tlr2"	"toll-like receptor 2"	NA	TRUE	NA	NA	NA	TRUE
+"244058"	"Rgma"	"RGM domain family, member A"	NA	NA	TRUE	NA	NA	NA
+"27279"	"Tnfrsf12a"	"tumor necrosis factor receptor superfamily, member 12a"	NA	NA	NA	NA	NA	TRUE
+"320011"	"Uggt1"	"UDP-glucose glycoprotein glucosyltransferase 1"	NA	TRUE	NA	NA	NA	NA
+"329278"	"Tnn"	"tenascin N"	NA	TRUE	NA	NA	NA	NA
+"442835"	"Defb22"	"defensin beta 22"	NA	NA	NA	TRUE	NA	NA
+"51795"	"Srpx"	"sushi-repeat-containing protein"	NA	TRUE	NA	NA	NA	NA
+"52118"	"Pvr"	"poliovirus receptor"	NA	TRUE	NA	NA	NA	TRUE
+"53328"	"Pgrmc1"	"progesterone receptor membrane component 1"	NA	NA	TRUE	NA	NA	NA
+"56047"	"Msln"	"mesothelin"	NA	TRUE	NA	NA	NA	NA
+"57278"	"Bcam"	"basal cell adhesion molecule"	NA	NA	NA	NA	TRUE	NA
+"59025"	"Usp14"	"ubiquitin specific peptidase 14"	NA	NA	TRUE	NA	NA	TRUE
+"66753"	"Erlec1"	"endoplasmic reticulum lectin 1"	NA	NA	NA	NA	TRUE	NA
+"67511"	"Tmed9"	"transmembrane emp24 protein transport domain containing 9"	NA	NA	NA	NA	NA	TRUE
+"68581"	"Tmed10"	"transmembrane emp24-like trafficking protein 10 (yeast)"	NA	TRUE	NA	NA	NA	NA
+"69585"	"Hfe2"	"hemochromatosis type 2 (juvenile) (human homolog)"	NA	NA	NA	NA	TRUE	NA
+"70495"	"Atp6ap2"	"ATPase, H+ transporting, lysosomal accessory protein 2"	NA	NA	NA	NA	NA	TRUE
+"71853"	"Pdia6"	"protein disulfide isomerase associated 6"	NA	TRUE	NA	NA	NA	TRUE
+"73379"	"Dcbld2"	"discoidin, CUB and LCCL domain containing 2"	NA	NA	NA	TRUE	NA	NA
+"74039"	"Nfam1"	"Nfat activating molecule with ITAM motif 1"	NA	NA	NA	TRUE	NA	NA

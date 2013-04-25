@@ -1,0 +1,12 @@
+FileName	Type							Time
+GSM99421 	"skeletal muscle, tibialis anterior: Denervated 3-day Control 1_e1_le1"							
+GSM99422 	"skeletal muscle, tibialis anterior: Denervated 3-day Control 2_e1_le1"							
+GSM99423 	"skeletal muscle, tibialis anterior: Denervated 3-day Control 3_e1_le1"							
+GSM99424 	"skeletal muscle, tibialis anterior: Innverated MCK::cre 1_e1_le1"							
+GSM99425 	"skeletal muscle, tibialis anterior: Innervated MCK::cre 2_e1_le1"							
+GSM99426 	"skeletal muscle, tibialis anterior: Denervated 3-day MCK::cre 1_e1_le1"							
+GSM99427 	"skeletal muscle, tibialis anterior: Denervated 3-day MCK::cre 2_e1_le1"							
+GSM99428 	"skeletal muscle, tibialis anterior: Denervated 3-day MCK::cre 3_e1_le1"							
+GSM99429 	"skeletal muscle, tibialis anterior: Innvervated Control 1_e1_le1"							
+GSM99430 	"skeletal muscle, tibialis anterior: Innvervated Control 2_e1_le1"							
+GSM99431 	"skeletal muscle, tibialis anterior: Innvervated Control 3_e1_le1"							
